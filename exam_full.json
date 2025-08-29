@@ -923,13 +923,13 @@
       "number": 80,
       "question": "What is the proper instructor action in a high wind landing with no ground assistance available?",
       "choices": {
-        "A": "Loosen the chest strap",
-        "C": "Have the student sit back in the harness",
-        "B": "Reposition the leg straps",
-        "D": "All of the above"
+        "A": "Keep toggles in both hands and run with the canopy",
+        "C": "Immediately pull the cutaway handle while airborne",
+        "B": "Collapse the canopy by releasing one toggle and pulling the other hand-over-hand. If unsuccessful, disconnect RSL and cutaway",
+        "D": "Disconnect the RSL and PLF with toggles in hand"
       },
       "correct": "B",
-      "rationale": "High winds: collapse canopy; if not, disconnect RSL and cutaway."
+      "rationale": "In high wind landings without ground assistance, first attempt to collapse the canopy using toggles; if it fails, disconnect RSL and cutaway."
     },
     {
       "number": 81,
