@@ -704,7 +704,7 @@
         "D": "A and B is correct"
       },
       "correct": "D",
-      "rationale": "Below 1500 ft: stay with stable aircraft; catastrophic damage: attach student, exit, deploy reserve."
+      "rationale": "Below 1500 ft: stay with aircraft if stable; if catastrophic, attach, exit, deploy reserve."
     },
     {
       "number": 64,
@@ -716,7 +716,7 @@
         "D": "None of the above"
       },
       "correct": "A",
-      "rationale": "1500–4000 ft: attach student, exit, immediately deploy reserve."
+      "rationale": "1500–4000 ft: attach, exit, deploy reserve immediately."
     },
     {
       "number": 65,
@@ -728,7 +728,7 @@
         "D": "None of the above"
       },
       "correct": "C",
-      "rationale": ">4000 ft: attach student, exit, set/inflate drogue, then release to main."
+      "rationale": ">4000 ft: attach, exit, set/inflate drogue, then release to main."
     },
     {
       "number": 66,
@@ -746,25 +746,25 @@
       "number": 67,
       "question": "What is the correct procedure for a premature deployment of your main (horseshoe) in which you cannot \ndeploy the drogue?",
       "choices": {
-        "A": "Total Malfunction EP",
-        "C": "Open Container with Drogue Issues EP",
-        "B": "Partial Malfunction EP",
-        "D": "Third Party Entanglement EP"
+        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
+        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "C",
-      "rationale": "Container open and drogue issues are handled under the Open-Container-with-Drogue-Issues EP."
+      "rationale": "Container open with drogue issues → follow that EP branch."
     },
     {
       "number": 68,
       "question": "Which is the correct response to an inflated drogue (“in tow”) that does not release the main pin during a \nmain canopy deployment attempt?",
       "choices": {
-        "A": "Total Malfunction EP",
-        "C": "Open Container with Drogue Issues EP",
-        "B": "Partial Malfunction EP",
-        "D": "Third Party Entanglement EP"
+        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
+        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "A",
-      "rationale": "Inflated drogue that doesn’t pull the pin leaves the container closed → treat as Total Malfunction."
+      "rationale": "Inflated drogue that doesn't extract pin → container closed → total malfunction."
     },
     {
       "number": 69,
@@ -776,67 +776,67 @@
         "D": "Dip a shoulder to get clean air into your \nburble"
       },
       "correct": "A",
-      "rationale": "If drogue does not inflate, wait ~6–8 s, then pull a drogue release."
+      "rationale": "If drogue doesn't inflate, wait ~6–8 s then pull a drogue release."
     },
     {
       "number": 70,
       "question": "What is the correct response to a collapsed drogue in tow ?",
       "choices": {
-        "A": "Total Malfunction EP",
-        "C": "Open Container with Drogue Issues EP",
-        "B": "Partial Malfunction EP",
-        "D": "Third Party Entanglement EP"
+        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
+        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "C",
-      "rationale": "Collapsed drogue in tow (container open) → open-container-with-drogue-issues branch."
+      "rationale": "Collapsed drogue in tow with container open → disconnect RSL, cutaway, clear risers, pull reserve."
     },
     {
       "number": 71,
       "question": "What should you do if you accidentally pull the drogue release handle before you deploy the drogue?",
       "choices": {
         "A": "Expect the trap door effect",
-        "C": "Total Malfunction EP",
+        "C": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
         "B": "Set the drogue",
         "D": "Expect main canopy deployment"
       },
       "correct": "B",
-      "rationale": "If drogue release was pulled before deploying the drogue, set the drogue."
+      "rationale": "Pulled release before setting drogue? Set the drogue (no drogue = no main)."
     },
     {
       "number": 72,
       "question": "What should you do if you can’t extract the drogue from its pouch after your second attempt within 10 \nseconds after exit?",
       "choices": {
-        "A": "Total Malfunction EP",
-        "C": "Open Container with Drogue Issues EP",
-        "B": "Partial Malfunction EP",
-        "D": "Third Party Entanglement EP"
+        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
+        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "A",
-      "rationale": "If you can’t extract the drogue after two attempts and ~10 s, go to Total Malfunction (reserve)."
+      "rationale": "Can't extract drogue after two attempts/~10s → total malfunction."
     },
     {
       "number": 73,
       "question": "What should you do if the bridle wraps around you or your passenger and you can’t clear it ?",
       "choices": {
-        "A": "Total Malfunction EP",
-        "C": "Open Container with Drogue Issues EP",
-        "B": "Partial Malfunction EP",
-        "D": "Third Party Entanglement EP"
+        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
+        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "D",
-      "rationale": "Bridle wraps on you/student and cannot be cleared → treat as third-party entanglement."
+      "rationale": "Bridle around person that can't be cleared promptly → third-party entanglement."
     },
     {
       "number": 74,
       "question": "What is the correct response if the drogue does not release after pulling left drogue release, right drogue release, and both together? Conduct…",
       "choices": {
-        "A": "Total Malfunction EP",
-        "B": "Partial Malfunction EP",
-        "C": "Open Container with Drogue Issues EP",
-        "D": "Third Party Entanglement EP"
+        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
+        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "A",
-      "rationale": "No release from either drogue handle → main tray won’t open → Total Malfunction."
+      "rationale": "Neither drogue release fires → main tray won't open → total malfunction."
     },
     {
       "number": 75,
@@ -848,7 +848,7 @@
         "D": "As fast as possible"
       },
       "correct": "A",
-      "rationale": "Peel upward and outward to break Velcro, then pull downward."
+      "rationale": "Peel handles up/out from Velcro, then pull down."
     },
     {
       "number": 76,
@@ -860,7 +860,7 @@
         "D": "Disconnect RSL and pull upwards using \nthe RSL Lanyard to deploy the reserve"
       },
       "correct": "D",
-      "rationale": "With left shoulder dislocation, use RSL lanyard method to deploy the reserve."
+      "rationale": "Use RSL lanyard method if shoulder injured and reserve needed."
     },
     {
       "number": 77,
@@ -872,19 +872,19 @@
         "D": "Canopy collisions"
       },
       "correct": "C",
-      "rationale": "Most common factor is instructor error."
+      "rationale": "Primary causal factor historically: instructor error."
     },
     {
       "number": 78,
       "question": "What is the procedure for a videographer caught in your drogue bridle?",
       "choices": {
-        "A": "Total Malfunction EP",
-        "C": "Open Container with Drogue Issues EP",
-        "B": "Partial Malfunction EP",
-        "D": "Third Party Entanglement EP"
+        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
+        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "D",
-      "rationale": "Videographer trapped in bridle is third-party entanglement EP."
+      "rationale": "Videographer in your bridle → third-party entanglement EP."
     },
     {
       "number": 79,
@@ -896,7 +896,7 @@
         "D": "Both jumpers disconnect RSLs and \nattempt to climb above the other"
       },
       "correct": "B",
-      "rationale": "Below 3000 ft with no good canopies: lower jumper cuts away first to increase separation."
+      "rationale": "Below 3000 ft with no good canopies: lower jumper cuts away to increase separation."
     },
     {
       "number": 80,
@@ -908,7 +908,7 @@
         "D": "All of the above"
       },
       "correct": "B",
-      "rationale": "In high winds without help: collapse by letting one toggle up and hand-over-hand the other; if not possible, disconnect RSL and cutaway."
+      "rationale": "High winds: collapse canopy; if not, disconnect RSL and cutaway."
     },
     {
       "number": 81,
@@ -920,7 +920,7 @@
         "D": "All of the above"
       },
       "correct": "D",
-      "rationale": "Post-opening comfort: loosen chest strap, reposition leg straps, and have student sit back."
+      "rationale": "Loosen chest strap, reposition leg straps, and have student sit back."
     },
     {
       "number": 82,
@@ -932,7 +932,7 @@
         "D": "There is no need to reattach anywhere"
       },
       "correct": "B",
-      "rationale": "Side laterals must be reattached onto the student harness."
+      "rationale": "Side laterals reattach onto the student harness."
     },
     {
       "number": 83,
@@ -944,7 +944,7 @@
         "D": "3500ft (1100m)"
       },
       "correct": "D",
-      "rationale": "Decision altitude ≈ 3500 ft (per SOP; configurable)."
+      "rationale": "Decision altitude ≈ 3500 ft by SOP."
     },
     {
       "number": 84,
