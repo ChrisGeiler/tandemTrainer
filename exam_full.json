@@ -9,7 +9,7 @@
         "B": "UPT Tandem Admin",
         "D": "None of the Above"
       },
-      "correct": "TBD",
+      "correct": "C",
       "rationale": ""
     },
     {
@@ -19,7 +19,7 @@
         "A": "Yes",
         "B": "No"
       },
-      "correct": "TBD",
+      "correct": "A",
       "rationale": ""
     },
     {
@@ -29,7 +29,7 @@
         "A": "No",
         "B": "Yes"
       },
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
@@ -39,7 +39,7 @@
         "A": "Yes",
         "B": "No"
       },
-      "correct": "TBD",
+      "correct": "A",
       "rationale": ""
     },
     {
@@ -51,7 +51,7 @@
         "B": "130mph (209 km/h)",
         "D": "170mph (274 km/h)"
       },
-      "correct": "TBD",
+      "correct": "A",
       "rationale": ""
     },
     {
@@ -63,7 +63,7 @@
         "B": "130mph (209 km/h)",
         "D": "170mph (274 km/h)"
       },
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -75,14 +75,14 @@
         "B": "4 Seconds",
         "D": "8 Seconds"
       },
-      "correct": "TBD",
+      "correct": "C",
       "rationale": ""
     },
     {
       "number": 8,
       "question": "",
       "choices": {},
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
@@ -94,7 +94,7 @@
         "B": "Reduce tandem freefall velocity",
         "D": "To help avoid side spins"
       },
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
@@ -106,7 +106,7 @@
         "B": "8 seconds or 1500ft (500m)",
         "D": "12 seconds or 2500ft (800m)"
       },
-      "correct": "TBD",
+      "correct": "C",
       "rationale": ""
     },
     {
@@ -118,7 +118,7 @@
         "B": "40 lbs. (18.1 kg)",
         "D": "58 lbs. (26.3 kg)"
       },
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -130,7 +130,7 @@
         "B": "38 lbs. (17.2 kg)",
         "D": "43 lbs. (19.5 kg)"
       },
-      "correct": "TBD",
+      "correct": "C",
       "rationale": ""
     },
     {
@@ -142,7 +142,7 @@
         "B": "200 lbs. (90.7 kg) for VR 360 / SR 370 / \nSR 340",
         "D": "No defined minimum exit weight"
       },
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
@@ -154,14 +154,14 @@
         "B": "Maximum system weight minus exit weight",
         "D": "Maximum system weight minus sigma \nsystem & student harness weight minus \ntandem instructor weight"
       },
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
       "number": 15,
       "question": "",
       "choices": {},
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -173,7 +173,7 @@
         "B": "1 second",
         "D": "¾ of a second"
       },
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -185,7 +185,7 @@
         "B": "Slower than normal tandem terminal \nspeed",
         "D": "None of the above"
       },
-      "correct": "TBD",
+      "correct": "C",
       "rationale": ""
     },
     {
@@ -197,7 +197,7 @@
         "B": "Pilot chute in tow",
         "D": "Higher snatch force, hard opening"
       },
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -209,7 +209,7 @@
         "B": "If the safety pin is seated correctly",
         "D": "If the closing loop is properly routed"
       },
-      "correct": "TBD",
+      "correct": "C",
       "rationale": ""
     },
     {
@@ -221,7 +221,7 @@
         "B": "Will not create enough drag to pull safety \npin",
         "D": "It will not deploy the main"
       },
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
@@ -233,14 +233,14 @@
         "B": "Guarantees an in -sequence deployment",
         "D": "Helps prevent the main container from \nopening prematurely"
       },
-      "correct": "TBD",
+      "correct": "C",
       "rationale": ""
     },
     {
       "number": 22,
       "question": "",
       "choices": {},
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -252,7 +252,7 @@
         "B": "1.5” – 5” (39mm – 128mm) for a 54” \ndrogue",
         "D": "B and C are correct"
       },
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -264,7 +264,7 @@
         "B": "During every main pack",
         "D": "Approximately every 25 jumps"
       },
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -276,7 +276,7 @@
         "B": "The drogue will collapse",
         "D": "The drogue would not collapse"
       },
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -288,7 +288,7 @@
         "B": "Open container with drogue issues \nmalfunction",
         "D": "Total malfunction"
       },
-      "correct": "TBD",
+      "correct": "A",
       "rationale": ""
     },
     {
@@ -300,7 +300,7 @@
         "B": "Uncontrollable turns, unstable drogue fall",
         "D": "All of the above"
       },
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -312,14 +312,14 @@
         "B": "The safety pin releasing",
         "D": "Separation from the main canopy risers"
       },
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
       "number": 29,
       "question": "",
       "choices": {},
-      "correct": "TBD",
+      "correct": "A",
       "rationale": ""
     },
     {
@@ -331,7 +331,7 @@
         "B": "In the direction of the arrow on the disk",
         "D": "A and C are correct"
       },
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -343,7 +343,7 @@
         "B": "It could cause a Total Malfunction",
         "D": "It could cause an Open Container with \nDrogue Issues Malfunction"
       },
-      "correct": "TBD",
+      "correct": "C",
       "rationale": ""
     },
     {
@@ -355,7 +355,7 @@
         "B": "Cause a collapsed drogue in tow",
         "D": "None of the above"
       },
-      "correct": "TBD",
+      "correct": "C",
       "rationale": ""
     },
     {
@@ -367,7 +367,7 @@
         "B": "Cypres",
         "D": "All of the above"
       },
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -379,7 +379,7 @@
         "B": "Reserve Pin",
         "D": "Cutaway Handle"
       },
-      "correct": "TBD",
+      "correct": "C",
       "rationale": ""
     },
     {
@@ -391,7 +391,7 @@
         "B": "Deploy the reserve",
         "D": "Release non -RSL riser if the right riser \nreleases prematurely"
       },
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -403,14 +403,14 @@
         "B": "4000ft (1200m)",
         "D": "3000ft (1000m)"
       },
-      "correct": "TBD",
+      "correct": "C",
       "rationale": ""
     },
     {
       "number": 37,
       "question": "",
       "choices": {},
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
@@ -422,7 +422,7 @@
         "B": "9500ft (3000m) MSL",
         "D": "7500ft (2300m) MSL"
       },
-      "correct": "TBD",
+      "correct": "C",
       "rationale": ""
     },
     {
@@ -434,7 +434,7 @@
         "B": "Poor presentation into the relative wind",
         "D": "All of the above"
       },
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -446,7 +446,7 @@
         "B": "Examiner Manual",
         "D": "All of the above"
       },
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -458,7 +458,7 @@
         "B": "UPT Service Bulletins",
         "D": "Sigma Manual"
       },
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -470,7 +470,7 @@
         "B": "5-8 seconds",
         "D": "Immediately if you feel instability"
       },
-      "correct": "TBD",
+      "correct": "A",
       "rationale": ""
     },
     {
@@ -480,7 +480,7 @@
         "A": "Yes",
         "B": "No"
       },
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
@@ -492,7 +492,7 @@
         "B": "100ft (30m)",
         "D": "There is no minimum"
       },
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
@@ -504,14 +504,14 @@
         "B": "Tandem Instructor jumping the system",
         "D": "Safety and Training Advisor"
       },
-      "correct": "TBD",
+      "correct": "A",
       "rationale": ""
     },
     {
       "number": 46,
       "question": "",
       "choices": {},
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
@@ -523,7 +523,7 @@
         "B": "Thumbs under the main lift web, arms \nuncrossed",
         "D": "Arms in a neutral box position"
       },
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
@@ -535,7 +535,7 @@
         "B": "Briefing items under FA R Part 105.45 OR \nin accordance with governing body’s \ntandem briefing requirements",
         "D": "Briefing on aircraft procedures"
       },
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
@@ -547,7 +547,7 @@
         "B": "Information overload",
         "D": "Student refusal"
       },
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
@@ -559,7 +559,7 @@
         "B": "18 years of age",
         "D": "With parental consent"
       },
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
@@ -571,7 +571,7 @@
         "B": "UPT Assumption of Risk Waiver",
         "D": "USPA or UPT Assumption of Risk Waiver \nVideo"
       },
-      "correct": "TBD",
+      "correct": "A",
       "rationale": ""
     },
     {
@@ -583,14 +583,14 @@
         "B": "Review SOPs and 1 jump with an \nexperienced jumper",
         "D": "Review SOPs and 2 jumps with an \nexperienced jumper"
       },
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
       "number": 53,
       "question": "",
       "choices": {},
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
@@ -602,7 +602,7 @@
         "B": "Review SOPs, EPs and 1 jump with an \nexperienced jumper",
         "D": "Review SOPs, EPs and 2 jumps with an \nexperienced jumper"
       },
-      "correct": "TBD",
+      "correct": "C",
       "rationale": ""
     },
     {
@@ -614,7 +614,7 @@
         "B": "Where the pull handle is and how to use it",
         "D": "That they must pull 6 inches and then \nrelease"
       },
-      "correct": "TBD",
+      "correct": "A",
       "rationale": ""
     },
     {
@@ -626,7 +626,7 @@
         "B": "When the student has access to the \ndrogue release and has been trained how \nto use it",
         "D": "It is always permitted as long as the \nvideographer only docks onto the \ninstructor"
       },
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
@@ -638,7 +638,7 @@
         "B": "50 jumps",
         "D": "225 jumps"
       },
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -648,7 +648,7 @@
         "A": "Yes",
         "B": "No"
       },
-      "correct": "TBD",
+      "correct": "B",
       "rationale": ""
     },
     {
@@ -660,14 +660,14 @@
         "B": "No",
         "D": "Depends on wind conditions \n\n--- PAGE 9 ---\n1645 Lexington Avenue, DeLand, FL 32724 -2106 USA • Telephone 386 -736-7589 • Fax 386- 734-7537 • www.uptvector.com \nsheryl@uptvector.com \nForm -291 Rev. 5 7/28/25 Copyright (c) 2025 by Uninsured United Parachute Technologies, LLC 9 of 13 60. Are Handles Checks REQUIRED on EVERY TANDEM SKYDIVE regardless of whether the tandem \ninstructor is using a handcam device on the tandem jump?"
       },
-      "correct": "TBD",
+      "correct": "A",
       "rationale": ""
     },
     {
       "number": 60,
       "question": "",
       "choices": {},
-      "correct": "TBD",
+      "correct": "A",
       "rationale": ""
     },
     {
@@ -679,7 +679,7 @@
         "B": "At some point before drogue release",
         "D": "After you set drogue"
       },
-      "correct": "TBD",
+      "correct": "C",
       "rationale": ""
     },
     {
@@ -691,7 +691,7 @@
         "B": "Left drogue release, secondary , cutaway , \nreserve, crystal ball",
         "D": "Left drogue release, right drogue release, cutaway, reserve, RSL, altitude"
       },
-      "correct": "TBD",
+      "correct": "D",
       "rationale": ""
     },
     {
@@ -752,7 +752,10 @@
         "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "C",
-      "rationale": "Container open with drogue issues → follow that EP branch."
+      "rationale": "Container open with drogue issues → follow that EP branch.",
+      "epLabel": "Open Container with Drogue Issues (pin already pulled)",
+      "epAction": "Cutaway → Reserve",
+      "epDescription": "Container is open but main is not deploying correctly due to drogue/bridle/bag issues. No 'immediately' verbiage."
     },
     {
       "number": 68,
@@ -764,7 +767,10 @@
         "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "A",
-      "rationale": "Inflated drogue that doesn't extract pin → container closed → total malfunction."
+      "rationale": "Inflated drogue that doesn't extract pin → container closed → total malfunction.",
+      "epLabel": "Total Malfunction (container closed)",
+      "epAction": "Left DR → Right DR → Both → Cutaway → Reserve",
+      "epDescription": "Use when the drogue cannot extract the main or an inflated drogue does not release the main pin; container remains closed."
     },
     {
       "number": 69,
@@ -787,8 +793,11 @@
         "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
         "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
-      "correct": "C",
-      "rationale": "Collapsed drogue in tow with container open → disconnect RSL, cutaway, clear risers, pull reserve."
+      "correct": "A",
+      "rationale": "Collapsed drogue in tow with container open → disconnect RSL, cutaway, clear risers, pull reserve.",
+      "epLabel": "Total Malfunction (container closed)",
+      "epAction": "Left DR → Right DR → Both → Cutaway → Reserve",
+      "epDescription": "Use when the drogue cannot extract the main or an inflated drogue does not release the main pin; container remains closed."
     },
     {
       "number": 71,
@@ -812,7 +821,10 @@
         "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "A",
-      "rationale": "Can't extract drogue after two attempts/~10s → total malfunction."
+      "rationale": "Can't extract drogue after two attempts/~10s → total malfunction.",
+      "epLabel": "Total Malfunction (container closed)",
+      "epAction": "Left DR → Right DR → Both → Cutaway → Reserve",
+      "epDescription": "Use when the drogue cannot extract the main or an inflated drogue does not release the main pin; container remains closed."
     },
     {
       "number": 73,
@@ -823,8 +835,11 @@
         "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
         "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
-      "correct": "D",
-      "rationale": "Bridle around person that can't be cleared promptly → third-party entanglement."
+      "correct": "A",
+      "rationale": "Bridle around person that can't be cleared promptly → third-party entanglement.",
+      "epLabel": "Total Malfunction (container closed)",
+      "epAction": "Left DR → Right DR → Both → Cutaway → Reserve",
+      "epDescription": "Use when the drogue cannot extract the main or an inflated drogue does not release the main pin; container remains closed."
     },
     {
       "number": 74,
@@ -836,7 +851,10 @@
         "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "A",
-      "rationale": "Neither drogue release fires → main tray won't open → total malfunction."
+      "rationale": "Neither drogue release fires → main tray won't open → total malfunction.",
+      "epLabel": "Total Malfunction (container closed)",
+      "epAction": "Left DR → Right DR → Both → Cutaway → Reserve",
+      "epDescription": "Use when the drogue cannot extract the main or an inflated drogue does not release the main pin; container remains closed."
     },
     {
       "number": 75,
@@ -884,7 +902,10 @@
         "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "D",
-      "rationale": "Videographer in your bridle → third-party entanglement EP."
+      "rationale": "Videographer in your bridle → third-party entanglement EP.",
+      "epLabel": "Third-party Entanglement (camera/other jumper)",
+      "epAction": "Attempt to clear; if not clear by ~10 s after exit → Reserve",
+      "epDescription": "Treat as entanglement; if neither jumper has a good canopy by ~3000 ft, both deploy reserves."
     },
     {
       "number": 79,
@@ -895,7 +916,7 @@
         "B": "The lower jumper initiates cutaway to \nincrease separation",
         "D": "Both jumpers disconnect RSLs and \nattempt to climb above the other"
       },
-      "correct": "B",
+      "correct": "A",
       "rationale": "Below 3000 ft with no good canopies: lower jumper cuts away to increase separation."
     },
     {
@@ -943,7 +964,7 @@
         "B": "4000ft (1200m)",
         "D": "3500ft (1100m)"
       },
-      "correct": "D",
+      "correct": "B",
       "rationale": "Decision altitude ≈ 3500 ft by SOP."
     },
     {
@@ -955,7 +976,7 @@
         "B": "1500ft (500m)",
         "D": "3000ft (1000m) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n--- PAGE 13 ---\n1645 Lexington Avenue, DeLand, FL 32724 -2106 USA • Telephone 386 -736-7589 • Fax 386- 734-7537 • www.uptvector.com \nsheryl@uptvector.com \nForm -291 Rev. 5 7/28/25 Copyright (c) 2025 by Uninsured United Parachute Technologies, LLC 13 of 13 Sigma Exam Knowledge Certification: \n \nThe following statement must be written by the Sigma Tandem Instructor Candidate in the space below: \n “I, (Instructor Candidate Name), have completed and corrected this Sigma Tandem Examination to a score of 100% on (Date) at (Location). I have reviewed this exam in its entirety with my UPT Sigma \nTandem Examiner.” \n ________________________________________________________________________________________\n________________________________________________________________________________________________________________________________________________________________________ ________\n________________________________________________________________ ________________________ \nInstructor Candidate Name : Examiner Name: \nCandidate Signature: Examiner Signature: \nDate: Date: \n \nExtra room for noted corrections: \n________________________________________________________________________________________\n________________________________________________________________________________________\n________________________________________________________________________________ ________\n________________________________________________________________________________________________________________________________________________________________________________\n________________________________________________________________________ ________________\n________________________________________________________________________________________\n________________________________________________________________________________________________________________________________________________________ ________________________\n________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ________________________________\n________________________________________________________________________________________\n________________________________________________________________________________________\n________________________________________________ ________________________________________\n________________________________________________________________________________________________________________________________________________________________________________________________________________________ ________________________________________________\n________________________________________________________ ________________________________"
       },
-      "correct": "B",
+      "correct": "A",
       "rationale": "Do not cutaway below ≈1500 ft AGL."
     }
   ]

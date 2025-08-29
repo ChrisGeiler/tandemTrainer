@@ -58,7 +58,10 @@
         "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "C",
-      "rationale": "Container open with drogue issues → follow that EP branch."
+      "rationale": "Container open with drogue issues → follow that EP branch.",
+      "epLabel": "Open Container with Drogue Issues (pin already pulled)",
+      "epAction": "Cutaway → Reserve",
+      "epDescription": "Container is open but main is not deploying correctly due to drogue/bridle/bag issues. No 'immediately' verbiage."
     },
     {
       "number": 68,
@@ -70,7 +73,10 @@
         "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "A",
-      "rationale": "Inflated drogue that doesn't extract pin → container closed → total malfunction."
+      "rationale": "Inflated drogue that doesn't extract pin → container closed → total malfunction.",
+      "epLabel": "Total Malfunction (container closed)",
+      "epAction": "Left DR → Right DR → Both → Cutaway → Reserve",
+      "epDescription": "Use when the drogue cannot extract the main or an inflated drogue does not release the main pin; container remains closed."
     },
     {
       "number": 69,
@@ -93,8 +99,11 @@
         "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
         "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
-      "correct": "C",
-      "rationale": "Collapsed drogue in tow with container open → disconnect RSL, cutaway, clear risers, pull reserve."
+      "correct": "A",
+      "rationale": "Collapsed drogue in tow with container open → disconnect RSL, cutaway, clear risers, pull reserve.",
+      "epLabel": "Total Malfunction (container closed)",
+      "epAction": "Left DR → Right DR → Both → Cutaway → Reserve",
+      "epDescription": "Use when the drogue cannot extract the main or an inflated drogue does not release the main pin; container remains closed."
     },
     {
       "number": 71,
@@ -118,7 +127,10 @@
         "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "A",
-      "rationale": "Can't extract drogue after two attempts/~10s → total malfunction."
+      "rationale": "Can't extract drogue after two attempts/~10s → total malfunction.",
+      "epLabel": "Total Malfunction (container closed)",
+      "epAction": "Left DR → Right DR → Both → Cutaway → Reserve",
+      "epDescription": "Use when the drogue cannot extract the main or an inflated drogue does not release the main pin; container remains closed."
     },
     {
       "number": 73,
@@ -129,8 +141,11 @@
         "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
         "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
-      "correct": "D",
-      "rationale": "Bridle around person that can't be cleared promptly → third-party entanglement."
+      "correct": "A",
+      "rationale": "Bridle around person that can't be cleared promptly → third-party entanglement.",
+      "epLabel": "Total Malfunction (container closed)",
+      "epAction": "Left DR → Right DR → Both → Cutaway → Reserve",
+      "epDescription": "Use when the drogue cannot extract the main or an inflated drogue does not release the main pin; container remains closed."
     },
     {
       "number": 74,
@@ -142,7 +157,10 @@
         "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "A",
-      "rationale": "Neither drogue release fires → main tray won't open → total malfunction."
+      "rationale": "Neither drogue release fires → main tray won't open → total malfunction.",
+      "epLabel": "Total Malfunction (container closed)",
+      "epAction": "Left DR → Right DR → Both → Cutaway → Reserve",
+      "epDescription": "Use when the drogue cannot extract the main or an inflated drogue does not release the main pin; container remains closed."
     },
     {
       "number": 75,
@@ -190,7 +208,10 @@
         "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "D",
-      "rationale": "Videographer in your bridle → third-party entanglement EP."
+      "rationale": "Videographer in your bridle → third-party entanglement EP.",
+      "epLabel": "Third-party Entanglement (camera/other jumper)",
+      "epAction": "Attempt to clear; if not clear by ~10 s after exit → Reserve",
+      "epDescription": "Treat as entanglement; if neither jumper has a good canopy by ~3000 ft, both deploy reserves."
     },
     {
       "number": 79,
@@ -201,7 +222,7 @@
         "B": "The lower jumper initiates cutaway to \nincrease separation",
         "D": "Both jumpers disconnect RSLs and \nattempt to climb above the other"
       },
-      "correct": "B",
+      "correct": "A",
       "rationale": "Below 3000 ft with no good canopies: lower jumper cuts away to increase separation."
     },
     {
@@ -249,7 +270,7 @@
         "B": "4000ft (1200m)",
         "D": "3500ft (1100m)"
       },
-      "correct": "D",
+      "correct": "B",
       "rationale": "Decision altitude ≈ 3500 ft by SOP."
     },
     {
@@ -261,7 +282,7 @@
         "B": "1500ft (500m)",
         "D": "3000ft (1000m) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n--- PAGE 13 ---\n1645 Lexington Avenue, DeLand, FL 32724 -2106 USA • Telephone 386 -736-7589 • Fax 386- 734-7537 • www.uptvector.com \nsheryl@uptvector.com \nForm -291 Rev. 5 7/28/25 Copyright (c) 2025 by Uninsured United Parachute Technologies, LLC 13 of 13 Sigma Exam Knowledge Certification: \n \nThe following statement must be written by the Sigma Tandem Instructor Candidate in the space below: \n “I, (Instructor Candidate Name), have completed and corrected this Sigma Tandem Examination to a score of 100% on (Date) at (Location). I have reviewed this exam in its entirety with my UPT Sigma \nTandem Examiner.” \n ________________________________________________________________________________________\n________________________________________________________________________________________________________________________________________________________________________ ________\n________________________________________________________________ ________________________ \nInstructor Candidate Name : Examiner Name: \nCandidate Signature: Examiner Signature: \nDate: Date: \n \nExtra room for noted corrections: \n________________________________________________________________________________________\n________________________________________________________________________________________\n________________________________________________________________________________ ________\n________________________________________________________________________________________________________________________________________________________________________________\n________________________________________________________________________ ________________\n________________________________________________________________________________________\n________________________________________________________________________________________________________________________________________________________ ________________________\n________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ________________________________\n________________________________________________________________________________________\n________________________________________________________________________________________\n________________________________________________ ________________________________________\n________________________________________________________________________________________________________________________________________________________________________________________________________________________ ________________________________________________\n________________________________________________________ ________________________________"
       },
-      "correct": "B",
+      "correct": "A",
       "rationale": "Do not cutaway below ≈1500 ft AGL."
     }
   ]
