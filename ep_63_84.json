@@ -166,7 +166,7 @@
       "number": 75,
       "question": "Explain the correct way to pull your reserve or cutaway handles free of their Velcro pockets.",
       "choices": {
-        "A": "Peel upward and outward, the n pull \ndownward",
+        "A": "Peel upward and outward, then pull \ndownward",
         "C": "Peel using both hands",
         "B": "Grab handle and punch down",
         "D": "As fast as possible"
@@ -235,7 +235,7 @@
         "D": "Disconnect the RSL and PLF with toggles in hand"
       },
       "correct": "B",
-      "rationale": "In high wind landings without ground assistance, first attempt to collapse the canopy using toggles; if it fails, disconnect RSL and cutaway."
+      "rationale": "In high wind landings without ground assistance, first attempt to collapse the canopy using toggles; if that fails, disconnect RSL and cutaway."
     },
     {
       "number": 81,
