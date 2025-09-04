@@ -126,8 +126,8 @@
       "question": "A packed Micro Sigma tandem system and student harness weighs approximately?",
       "choices": {
         "A": "56 lbs. (25.4 kg)",
-        "C": "50 lbs. (22.7 kg)",
         "B": "38 lbs. (17.2 kg)",
+        "C": "50 lbs. (22.7 kg)",
         "D": "43 lbs. (19.5 kg)"
       },
       "correct": "A",
@@ -228,13 +228,13 @@
       "number": 21,
       "question": "What would happen if you held onto the drogue during drogue deployment?",
       "choices": {
-        "A": "To ensure the drogue is cocked",
-        "C": "Ensures the main container opens before \nthe drogue collapses",
-        "B": "Guarantees an in -sequence deployment",
-        "D": "Helps prevent the main container from \nopening prematurely"
+        "A": "Normal drogue deployment",
+        "B": "Open Container with Drogue Issues EP",
+        "C": "Possible entanglement with drogue bridle",
+        "D": "Premature Deployment"
       },
       "correct": "C",
-      "rationale": "Holding the drogue during deployment risks bridle entanglement—never restrain the drogue."
+      "rationale": "Restraining the drogue can snag or wrap the bridle around you/your student."
     },
     {
       "number": 22,
@@ -281,15 +281,15 @@
     },
     {
       "number": 26,
-      "question": "What are the negative consequences of such an occurrence (question # 25)?",
+      "question": "What are the negative consequences if the drogue fails to collapse (as described in question #25)?",
       "choices": {
         "A": "Potential for hard opening",
+        "B": "Open container with drogue issues malfunction",
         "C": "Streamer malfunction",
-        "B": "Open container with drogue issues \nmalfunction",
         "D": "Total malfunction"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "A",
+      "rationale": "A drogue that does not collapse can drive high snatch forces → potential for hard opening."
     },
     {
       "number": 27,
@@ -576,15 +576,15 @@
     },
     {
       "number": 52,
-      "question": "How many tandem jumps in the last 12 months must a rated instructor make to renew a tandem rating ?",
+      "question": "How many tandem jumps in the last 12 months must a rated instructor make to renew a tandem rating?",
       "choices": {
-        "A": "Review SOPs and 2 jumps with an \nevaluator",
-        "C": "Review SOPs and 2 jumps under the \nsupervision of an examiner",
-        "B": "Review SOPs and 1 jump with an \nexperienced jumper",
-        "D": "Review SOPs and 2 jumps with an \nexperienced jumper"
+        "A": "20 jumps",
+        "B": "25 jumps",
+        "C": "15 jumps",
+        "D": "30 jumps"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "Minimum of 25 tandem jumps in the preceding 12 months for renewal."
     },
     {
       "number": 53,
@@ -655,13 +655,13 @@
       "number": 59,
       "question": "What is the maximum degree of turn for tandem canopies at or below 500ft (150m) AGL?",
       "choices": {
-        "A": "Yes",
-        "C": "Whatever is necessary for a safe landing",
-        "B": "No",
-        "D": "Depends on wind conditions \n\n--- PAGE 9 ---\n1645 Lexington Avenue, DeLand, FL 32724 -2106 USA • Telephone 386 -736-7589 • Fax 386- 734-7537 • www.uptvector.com \nsheryl@uptvector.com \nForm -291 Rev. 5 7/28/25 Copyright (c) 2025 by Uninsured United Parachute Technologies, LLC 9 of 13 60. Are Handles Checks REQUIRED on EVERY TANDEM SKYDIVE regardless of whether the tandem \ninstructor is using a handcam device on the tandem jump?"
+        "A": "0° (no turns)",
+        "B": "45°",
+        "C": "90°",
+        "D": "Depends on wind conditions"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "A",
+      "rationale": "Below 500 ft AGL, make no turns (0°) by SOP."
     },
     {
       "number": 60,
@@ -959,5 +959,5 @@
       "rationale": "Do not cutaway below ≈1500 ft AGL."
     }
   ],
-  "version": "clean-20250904212226"
+  "version": "dropin-fixes-20250904214120"
 }
