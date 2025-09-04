@@ -9,8 +9,8 @@
         "C": "The Tandem Instructor Candidate",
         "D": "None of the Above"
       },
-      "correct_index": 3,
-      "rationale": ""
+      "rationale": "",
+      "correct": "C"
     },
     {
       "number": 2,
@@ -21,8 +21,8 @@
         "C": "",
         "D": ""
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 3,
@@ -33,8 +33,8 @@
         "C": "",
         "D": ""
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 4,
@@ -45,8 +45,8 @@
         "C": "",
         "D": ""
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 5,
@@ -57,8 +57,8 @@
         "C": "150mph (241 km/h)",
         "D": "170mph (274 km/h)"
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 6,
@@ -69,8 +69,8 @@
         "C": "150mph (241 km/h)",
         "D": "170mph (274 km/h)"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 7,
@@ -81,8 +81,8 @@
         "C": "6 Seconds",
         "D": "8 Seconds"
       },
-      "correct_index": 3,
-      "rationale": ""
+      "rationale": "",
+      "correct": "C"
     },
     {
       "number": 8,
@@ -93,8 +93,8 @@
         "C": "6 Seconds",
         "D": "8 Seconds"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 9,
@@ -105,8 +105,8 @@
         "C": "To aid in stability",
         "D": "To help avoid side spins"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 10,
@@ -117,8 +117,8 @@
         "C": "10 seconds or 2000ft (600m)",
         "D": "12 seconds or 2500ft (800m)"
       },
-      "correct_index": 3,
-      "rationale": ""
+      "rationale": "",
+      "correct": "C"
     },
     {
       "number": 11,
@@ -129,8 +129,8 @@
         "C": "63 lbs. (28.6 kg)",
         "D": "58 lbs. (26.3 kg)"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 12,
@@ -141,8 +141,8 @@
         "C": "50 lbs. (22.7 kg)",
         "D": "43 lbs. (19.5 kg)"
       },
-      "correct_index": 3,
-      "rationale": ""
+      "rationale": "",
+      "correct": "C"
     },
     {
       "number": 13,
@@ -153,8 +153,8 @@
         "C": "200 lbs. (90.7 kg) for VR 360 / SR 360",
         "D": "No defined minimum exit weight"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 14,
@@ -165,8 +165,8 @@
         "C": "500 lbs. (226.5 kg) VR 360 / 550 lbs. (249.5 kg) SR 370",
         "D": "550 lbs. (249.5 kg) VR 360 / 500 lbs. (226.5 kg) SR 340"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 15,
@@ -177,8 +177,8 @@
         "C": "Sigma system weight minus student harness weight minus tandem instructor weight",
         "D": "Maximum system weight minus sigma system & student harness weight minus tandem instructor weight"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 16,
@@ -189,8 +189,8 @@
         "C": "0.5 a second",
         "D": "\u00be of a second"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 17,
@@ -201,8 +201,8 @@
         "C": "Longer than normal trap door effect",
         "D": "None of the above"
       },
-      "correct_index": 3,
-      "rationale": ""
+      "rationale": "",
+      "correct": "C"
     },
     {
       "number": 18,
@@ -213,8 +213,8 @@
         "C": "Slower than normal drogue fall speed",
         "D": "Higher snatch force, hard opening"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 19,
@@ -225,8 +225,8 @@
         "C": "Bridle scrunched and drogue centerline window color",
         "D": "If the closing loop is properly routed"
       },
-      "correct_index": 3,
-      "rationale": ""
+      "rationale": "",
+      "correct": "C"
     },
     {
       "number": 20,
@@ -237,8 +237,8 @@
         "C": "Terminal velocity increases. Drogue should inflate within 6-8 seconds",
         "D": "It will not deploy the main"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 21,
@@ -249,8 +249,8 @@
         "C": "Possible entanglement with drogue bridle",
         "D": "Premature Deployment"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "C"
     },
     {
       "number": 22,
@@ -261,8 +261,8 @@
         "C": "Ensures the main container opens before the drogue collapses",
         "D": "Helps prevent the main container from opening prematurely"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 23,
@@ -273,8 +273,8 @@
         "C": "7.5\u201d (191mm) for a 60\u201d drogue",
         "D": "B and C are correct"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 24,
@@ -285,8 +285,8 @@
         "C": "Approximately every 30 days",
         "D": "Approximately every 25 jumps"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 25,
@@ -297,8 +297,8 @@
         "C": "A and B are correct",
         "D": "The drogue would not collapse"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 26,
@@ -309,8 +309,8 @@
         "C": "Streamer malfunction",
         "D": "Total malfunction"
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 27,
@@ -321,8 +321,8 @@
         "C": "Harder to get stable, buffeting",
         "D": "All of the above"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 28,
@@ -333,8 +333,8 @@
         "C": "Can cause instability",
         "D": "Can cause bad handcam footage"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 29,
@@ -345,8 +345,8 @@
         "C": "An uninflated drogue",
         "D": "Separation from the main canopy risers"
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 30,
@@ -357,8 +357,8 @@
         "C": "From the bottom of the container",
         "D": "A and C are correct"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 31,
@@ -369,8 +369,8 @@
         "C": "It could cause a Horseshoe Malfunction",
         "D": "It could cause an Open Container with Drogue Issues Malfunction"
       },
-      "correct_index": 3,
-      "rationale": ""
+      "rationale": "",
+      "correct": "C"
     },
     {
       "number": 32,
@@ -381,8 +381,8 @@
         "C": "Cause hard pulls",
         "D": "None of the above"
       },
-      "correct_index": 3,
-      "rationale": ""
+      "rationale": "",
+      "correct": "C"
     },
     {
       "number": 33,
@@ -393,8 +393,8 @@
         "C": "Vigil",
         "D": "All of the above"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 34,
@@ -405,8 +405,8 @@
         "C": "Skyhook",
         "D": "Cutaway Handle"
       },
-      "correct_index": 3,
-      "rationale": ""
+      "rationale": "",
+      "correct": "C"
     },
     {
       "number": 35,
@@ -417,8 +417,8 @@
         "C": "To act as a secondary cutaway device",
         "D": "Release non-RSL riser if the right riser releases prematurely"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 36,
@@ -429,8 +429,8 @@
         "C": "Gear check",
         "D": "Briefing items under the Part 105.45"
       },
-      "correct_index": 3,
-      "rationale": ""
+      "rationale": "",
+      "correct": "C"
     },
     {
       "number": 37,
@@ -441,8 +441,8 @@
         "C": "3500ft (1100m)",
         "D": "3000ft (1000m)"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 38,
@@ -453,8 +453,8 @@
         "C": "7500ft (2300m) AGL",
         "D": "7500ft (2300m) MSL"
       },
-      "correct_index": 3,
-      "rationale": ""
+      "rationale": "",
+      "correct": "C"
     },
     {
       "number": 39,
@@ -465,8 +465,8 @@
         "C": "Improper set up, launch, fly away",
         "D": "All of the above"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 40,
@@ -477,8 +477,8 @@
         "C": "UPT SOPs",
         "D": "All of the above"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 41,
@@ -489,8 +489,8 @@
         "C": "DZ Policy Handbook",
         "D": "Sigma Manual"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 42,
@@ -501,8 +501,8 @@
         "C": "10 seconds",
         "D": "Immediately if you feel instability"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 43,
@@ -513,8 +513,8 @@
         "C": "",
         "D": ""
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 44,
@@ -525,8 +525,8 @@
         "C": "500ft (150m)",
         "D": "There is no minimum"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 45,
@@ -537,8 +537,8 @@
         "C": "Chief Instructor",
         "D": "Another tandem instructor"
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 46,
@@ -549,8 +549,8 @@
         "C": "DZ Owner",
         "D": "Safety and Training Advisor"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 47,
@@ -561,8 +561,8 @@
         "C": "Arms at the side",
         "D": "Arms in a neutral box position"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 48,
@@ -573,8 +573,8 @@
         "C": "Briefing on how to land",
         "D": "Briefing on aircraft procedures"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 49,
@@ -585,8 +585,8 @@
         "C": "Student becomes afraid",
         "D": "Student refusal"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 50,
@@ -597,8 +597,8 @@
         "C": "21 years of age",
         "D": "With parental consent"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 51,
@@ -609,8 +609,8 @@
         "C": "USA Tandem Waiver Video",
         "D": "USPA or UPT Assumption of Risk Waiver Video"
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 52,
@@ -621,8 +621,8 @@
         "C": "15 jumps",
         "D": "30 jumps"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 53,
@@ -633,8 +633,8 @@
         "C": "Review SOPs and 2 jumps under the supervision of an examiner",
         "D": "Review SOPs and 2 jumps with an experienced jumper"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 54,
@@ -645,8 +645,8 @@
         "C": "Review SOPs, EPs, 1 solo jump and 1 tandem jump with an experience jumper under the supervision of an examiner",
         "D": "Review SOPs, EPs and 2 jumps with an experienced jumper"
       },
-      "correct_index": 3,
-      "rationale": ""
+      "rationale": "",
+      "correct": "C"
     },
     {
       "number": 55,
@@ -657,8 +657,8 @@
         "C": "Be given an altimeter",
         "D": "That they must pull 6 inches and then release"
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 56,
@@ -669,8 +669,8 @@
         "C": "It is always permitted as long as the videographer only docks onto the passenger",
         "D": "It is always permitted as long as the videographer only docks onto the instructor"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 57,
@@ -681,8 +681,8 @@
         "C": "125 jumps",
         "D": "225 jumps"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 58,
@@ -693,8 +693,8 @@
         "C": "",
         "D": ""
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 59,
@@ -705,8 +705,8 @@
         "C": "Whatever is necessary for a safe landing",
         "D": "Depends on wind conditions"
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 60,
@@ -717,8 +717,8 @@
         "C": "",
         "D": ""
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 61,
@@ -729,8 +729,8 @@
         "C": "After you set drogue and check drogue",
         "D": "After you set drogue"
       },
-      "correct_index": 3,
-      "rationale": ""
+      "rationale": "",
+      "correct": "C"
     },
     {
       "number": 62,
@@ -741,8 +741,8 @@
         "C": "The order is not important as long as you touch all the handles",
         "D": "Left drogue release, right drogue release, cutaway, reserve, RSL, altitude"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 63,
@@ -753,8 +753,8 @@
         "C": "Assure the student that everything is going to be okay",
         "D": "A and B is correct"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 64,
@@ -765,8 +765,8 @@
         "C": "Stay in the aircraft and land with the airplane",
         "D": "None of the above"
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 65,
@@ -777,8 +777,8 @@
         "C": "Attach the student, exit, deploy the drogue, ensure inflation then release drogue",
         "D": "None of the above"
       },
-      "correct_index": 3,
-      "rationale": ""
+      "rationale": "",
+      "correct": "C"
     },
     {
       "number": 66,
@@ -789,8 +789,8 @@
         "C": "Strip the right, track and pull reserve",
         "D": "Cutaway, ensure separation, deploy reserve"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 67,
@@ -801,8 +801,8 @@
         "C": "Open Container with Drogue Issues EP",
         "D": "Third Party Entanglement EP"
       },
-      "correct_index": 3,
-      "rationale": ""
+      "rationale": "",
+      "correct": "C"
     },
     {
       "number": 68,
@@ -813,8 +813,8 @@
         "C": "Open Container with Drogue Issues EP",
         "D": "Third Party Entanglement EP"
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 69,
@@ -825,8 +825,8 @@
         "C": "Wait 6-8 seconds for drogue to inflate, if it does not, Partial Malfunction EP",
         "D": "Dip a shoulder to get clean air into your burble"
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 70,
@@ -837,8 +837,8 @@
         "C": "Open Container with Drogue Issues EP",
         "D": "Third Party Entanglement EP"
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 71,
@@ -849,8 +849,8 @@
         "C": "Total Malfunction EP",
         "D": "Expect main canopy deployment"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 72,
@@ -861,8 +861,8 @@
         "C": "Open Container with Drogue Issues EP",
         "D": "Third Party Entanglement EP"
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 73,
@@ -873,8 +873,8 @@
         "C": "Open Container with Drogue Issues EP",
         "D": "Third Party Entanglement EP"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 74,
@@ -885,8 +885,8 @@
         "C": "Open Container with Drogue Issues EP",
         "D": "Third Party Entanglement EP"
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 75,
@@ -897,8 +897,8 @@
         "C": "Peel using both hands",
         "D": "As fast as possible"
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 76,
@@ -909,8 +909,8 @@
         "C": "Nothing, the AAD will activate at 2000ft (600m)",
         "D": "Disconnect RSL and pull upwards using the RSL Lanyard to deploy the reserve"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 77,
@@ -921,8 +921,8 @@
         "C": "Instructor error",
         "D": "Canopy collisions"
       },
-      "correct_index": 3,
-      "rationale": ""
+      "rationale": "",
+      "correct": "C"
     },
     {
       "number": 78,
@@ -933,8 +933,8 @@
         "C": "Open Container with Drogue Issues EP",
         "D": "Third Party Entanglement EP"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 79,
@@ -945,8 +945,8 @@
         "C": "The higher jumper initiates cutaway first, followed by the lower jumper",
         "D": "Both jumpers disconnect RSLs and attempt to climb above the other"
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     },
     {
       "number": 80,
@@ -957,8 +957,8 @@
         "C": "Immediately pull the cutaway handle while airborne",
         "D": "Disconnect the RSL and PLF with toggles in hand"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 81,
@@ -969,8 +969,8 @@
         "C": "Have the student sit back in the harness",
         "D": "All of the above"
       },
-      "correct_index": 4,
-      "rationale": ""
+      "rationale": "",
+      "correct": "D"
     },
     {
       "number": 82,
@@ -981,8 +981,8 @@
         "C": "They should never be detached",
         "D": "There is no need to reattach anywhere"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 83,
@@ -993,8 +993,8 @@
         "C": "2500ft (800m)",
         "D": "3500ft (1100m)"
       },
-      "correct_index": 2,
-      "rationale": ""
+      "rationale": "",
+      "correct": "B"
     },
     {
       "number": 84,
@@ -1005,8 +1005,8 @@
         "C": "2500ft (800m)",
         "D": "3000ft (1000m)"
       },
-      "correct_index": 1,
-      "rationale": ""
+      "rationale": "",
+      "correct": "A"
     }
   ]
 }
