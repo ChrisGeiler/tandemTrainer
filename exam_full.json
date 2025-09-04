@@ -14,7 +14,7 @@
     },
     {
       "number": 2,
-      "question": "Have you verified that your UPT Tandem Examiner\u2019s rating is current for the duration of the course ?",
+      "question": "Have you verified that your UPT Tandem Examiner’s rating is current for the duration of the course ?",
       "choices": {
         "A": "Yes",
         "B": "No"
@@ -131,7 +131,7 @@
         "D": "43 lbs. (19.5 kg)"
       },
       "correct": "A",
-      "rationale": "Per UPT specs for the **Micro Sigma** tandem system + student harness: approx. 56 lbs (25.4 kg)."
+      "rationale": "Micro Sigma tandem system + student harness weigh ≈56 lbs (25.4 kg)."
     },
     {
       "number": 13,
@@ -171,7 +171,7 @@
         "A": "1.5 seconds",
         "C": "0.5 a second",
         "B": "1 second",
-        "D": "\u00be of a second"
+        "D": "¾ of a second"
       },
       "correct": "TBD",
       "rationale": ""
@@ -228,13 +228,13 @@
       "number": 21,
       "question": "What would happen if you held onto the drogue during drogue deployment?",
       "choices": {
-        "A": "Normal drogue deployment",
-        "B": "Open Container with Drogue Issues EP",
-        "C": "Possible entanglement with drogue bridle",
-        "D": "Premature Deployment"
+        "A": "To ensure the drogue is cocked",
+        "C": "Ensures the main container opens before \nthe drogue collapses",
+        "B": "Guarantees an in -sequence deployment",
+        "D": "Helps prevent the main container from \nopening prematurely"
       },
       "correct": "C",
-      "rationale": "Holding onto the drogue during deployment risks wrapping or snagging the bridle, creating an entanglement."
+      "rationale": "Holding the drogue during deployment risks bridle entanglement—never restrain the drogue."
     },
     {
       "number": 22,
@@ -247,9 +247,9 @@
       "number": 23,
       "question": "What length should the exposed kill line be above the grommet at the base of the drogue envelope during \ndrogue calibration?",
       "choices": {
-        "A": "2.5\u201d \u2013 5.5\u201d ( 64mm \u2013 140mm) for a 60\u201d \ndrogue",
-        "C": "7.5\u201d (191mm) for a 60\u201d drogue",
-        "B": "1.5\u201d \u2013 5\u201d (39mm \u2013 128mm) for a 54\u201d \ndrogue",
+        "A": "2.5” – 5.5” ( 64mm – 140mm) for a 60” \ndrogue",
+        "C": "7.5” (191mm) for a 60” drogue",
+        "B": "1.5” – 5” (39mm – 128mm) for a 54” \ndrogue",
         "D": "B and C are correct"
       },
       "correct": "TBD",
@@ -295,7 +295,7 @@
       "number": 27,
       "question": "Explain the negative consequences of loose student side attachment straps on exit?",
       "choices": {
-        "A": "Rocking drogue fall, student\u2019s legs outside \ninstructors",
+        "A": "Rocking drogue fall, student’s legs outside \ninstructors",
         "C": "Harder to get stable, buffeting",
         "B": "Uncontrollable turns, unstable drogue fall",
         "D": "All of the above"
@@ -326,7 +326,7 @@
       "number": 30,
       "question": "Which direction should the closing pin be inserted?",
       "choices": {
-        "A": "In the 11 o\u2019clock position",
+        "A": "In the 11 o’clock position",
         "C": "From the bottom of the container",
         "B": "In the direction of the arrow on the disk",
         "D": "A and C are correct"
@@ -372,7 +372,7 @@
     },
     {
       "number": 34,
-      "question": "The red lanyard attached to the Sigma RSL is connected to the\u2026",
+      "question": "The red lanyard attached to the Sigma RSL is connected to the…",
       "choices": {
         "A": "Collins Lanyard",
         "C": "Skyhook",
@@ -532,7 +532,7 @@
       "choices": {
         "A": "Briefing on how to exit and freefall",
         "C": "Briefing on how to land",
-        "B": "Briefing items under FA R Part 105.45 OR \nin accordance with governing body\u2019s \ntandem briefing requirements",
+        "B": "Briefing items under FA R Part 105.45 OR \nin accordance with governing body’s \ntandem briefing requirements",
         "D": "Briefing on aircraft procedures"
       },
       "correct": "TBD",
@@ -595,7 +595,7 @@
     },
     {
       "number": 54,
-      "question": "If a Tandem Instructor (after probation) has not made a tandem jump between 181 days \u2013 2 years, they \nmust:",
+      "question": "If a Tandem Instructor (after probation) has not made a tandem jump between 181 days – 2 years, they \nmust:",
       "choices": {
         "A": "Review SOPs, EPs and 2 jumps with an \nevaluator",
         "C": "Review SOPs, EPs, 1 solo jump and 1 \ntandem jump with an experience jumper \nunder the supervision of an examiner",
@@ -649,7 +649,7 @@
         "B": "No"
       },
       "correct": "B",
-      "rationale": "UPT does **not** authorize pole camera mounts for handcam on tandem jumps."
+      "rationale": "Pole camera mounts are not authorized for handcam tandem jumps."
     },
     {
       "number": 59,
@@ -658,7 +658,7 @@
         "A": "Yes",
         "C": "Whatever is necessary for a safe landing",
         "B": "No",
-        "D": "Depends on wind conditions \n\n--- PAGE 9 ---\n1645 Lexington Avenue, DeLand, FL 32724 -2106 USA \u2022 Telephone 386 -736-7589 \u2022 Fax 386- 734-7537 \u2022 www.uptvector.com \nsheryl@uptvector.com \nForm -291 Rev. 5 7/28/25 Copyright (c) 2025 by Uninsured United Parachute Technologies, LLC 9 of 13 60. Are Handles Checks REQUIRED on EVERY TANDEM SKYDIVE regardless of whether the tandem \ninstructor is using a handcam device on the tandem jump?"
+        "D": "Depends on wind conditions \n\n--- PAGE 9 ---\n1645 Lexington Avenue, DeLand, FL 32724 -2106 USA • Telephone 386 -736-7589 • Fax 386- 734-7537 • www.uptvector.com \nsheryl@uptvector.com \nForm -291 Rev. 5 7/28/25 Copyright (c) 2025 by Uninsured United Parachute Technologies, LLC 9 of 13 60. Are Handles Checks REQUIRED on EVERY TANDEM SKYDIVE regardless of whether the tandem \ninstructor is using a handcam device on the tandem jump?"
       },
       "correct": "TBD",
       "rationale": ""
@@ -716,7 +716,7 @@
         "D": "None of the above"
       },
       "correct": "A",
-      "rationale": "1500\u20134000 ft: attach, exit, deploy reserve immediately."
+      "rationale": "1500–4000 ft: attach, exit, deploy reserve immediately."
     },
     {
       "number": 65,
@@ -740,31 +740,31 @@
         "D": "Cutaway, ensure separation, deploy reserve"
       },
       "correct": "D",
-      "rationale": "Partial malfunction: cutaway \u2192 ensure riser separation \u2192 deploy reserve."
+      "rationale": "Partial malfunction: cutaway → ensure riser separation → deploy reserve."
     },
     {
       "number": 67,
       "question": "What is the correct procedure for a premature deployment of your main (horseshoe) in which you cannot \ndeploy the drogue?",
       "choices": {
-        "A": "Total Malfunction EP \u2014 Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
-        "C": "Open Container with Drogue Issues EP \u2014 DISCONNECT RSL \u2192 CUTAWAY \u2192 CLEAR RISERS \u2192 PULL RESERVE.",
-        "B": "Partial Malfunction EP \u2014 CUTAWAY \u2192 ensure separation / clear risers \u2192 DEPLOY RESERVE.",
-        "D": "Third Party Entanglement EP \u2014 Try to clear fast (\u2264 ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
+        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
+        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "C",
-      "rationale": "Container open with drogue issues \u2192 follow that EP branch."
+      "rationale": "Container open with drogue issues → follow that EP branch."
     },
     {
       "number": 68,
-      "question": "Which is the correct response to an inflated drogue (\u201cin tow\u201d) that does not release the main pin during a \nmain canopy deployment attempt?",
+      "question": "Which is the correct response to an inflated drogue (“in tow”) that does not release the main pin during a \nmain canopy deployment attempt?",
       "choices": {
-        "A": "Total Malfunction EP \u2014 Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
-        "C": "Open Container with Drogue Issues EP \u2014 DISCONNECT RSL \u2192 CUTAWAY \u2192 CLEAR RISERS \u2192 PULL RESERVE.",
-        "B": "Partial Malfunction EP \u2014 CUTAWAY \u2192 ensure separation / clear risers \u2192 DEPLOY RESERVE.",
-        "D": "Third Party Entanglement EP \u2014 Try to clear fast (\u2264 ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
+        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
+        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "A",
-      "rationale": "Inflated drogue that doesn't extract pin \u2192 container closed \u2192 total malfunction."
+      "rationale": "Inflated drogue that doesn't extract pin → container closed → total malfunction."
     },
     {
       "number": 69,
@@ -776,26 +776,26 @@
         "D": "Dip a shoulder to get clean air into your \nburble"
       },
       "correct": "A",
-      "rationale": "If drogue doesn't inflate, wait ~6\u20138 s then pull a drogue release."
+      "rationale": "If drogue doesn't inflate, wait ~6–8 s then pull a drogue release."
     },
     {
       "number": 70,
       "question": "What is the correct response to a collapsed drogue in tow ?",
       "choices": {
-        "A": "Total Malfunction EP \u2014 Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
-        "C": "Open Container with Drogue Issues EP \u2014 DISCONNECT RSL \u2192 CUTAWAY \u2192 CLEAR RISERS \u2192 PULL RESERVE.",
-        "B": "Partial Malfunction EP \u2014 CUTAWAY \u2192 ensure separation / clear risers \u2192 DEPLOY RESERVE.",
-        "D": "Third Party Entanglement EP \u2014 Try to clear fast (\u2264 ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
+        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
+        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "C",
-      "rationale": "Collapsed drogue in tow with container open \u2192 disconnect RSL, cutaway, clear risers, pull reserve."
+      "rationale": "Collapsed drogue in tow with container open → disconnect RSL, cutaway, clear risers, pull reserve."
     },
     {
       "number": 71,
       "question": "What should you do if you accidentally pull the drogue release handle before you deploy the drogue?",
       "choices": {
         "A": "Expect the trap door effect",
-        "C": "Total Malfunction EP \u2014 Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
+        "C": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
         "B": "Set the drogue",
         "D": "Expect main canopy deployment"
       },
@@ -804,39 +804,39 @@
     },
     {
       "number": 72,
-      "question": "What should you do if you can\u2019t extract the drogue from its pouch after your second attempt within 10 \nseconds after exit?",
+      "question": "What should you do if you can’t extract the drogue from its pouch after your second attempt within 10 \nseconds after exit?",
       "choices": {
-        "A": "Total Malfunction EP \u2014 Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
-        "C": "Open Container with Drogue Issues EP \u2014 DISCONNECT RSL \u2192 CUTAWAY \u2192 CLEAR RISERS \u2192 PULL RESERVE.",
-        "B": "Partial Malfunction EP \u2014 CUTAWAY \u2192 ensure separation / clear risers \u2192 DEPLOY RESERVE.",
-        "D": "Third Party Entanglement EP \u2014 Try to clear fast (\u2264 ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
+        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
+        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "A",
-      "rationale": "Can't extract drogue after two attempts/~10s \u2192 total malfunction."
+      "rationale": "Can't extract drogue after two attempts/~10s → total malfunction."
     },
     {
       "number": 73,
-      "question": "What should you do if the bridle wraps around you or your passenger and you can\u2019t clear it ?",
+      "question": "What should you do if the bridle wraps around you or your passenger and you can’t clear it ?",
       "choices": {
-        "A": "Total Malfunction EP \u2014 Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
-        "C": "Open Container with Drogue Issues EP \u2014 DISCONNECT RSL \u2192 CUTAWAY \u2192 CLEAR RISERS \u2192 PULL RESERVE.",
-        "B": "Partial Malfunction EP \u2014 CUTAWAY \u2192 ensure separation / clear risers \u2192 DEPLOY RESERVE.",
-        "D": "Third Party Entanglement EP \u2014 Try to clear fast (\u2264 ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
+        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
+        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "D",
-      "rationale": "Bridle around person that can't be cleared promptly \u2192 third-party entanglement."
+      "rationale": "Bridle around person that can't be cleared promptly → third-party entanglement."
     },
     {
       "number": 74,
-      "question": "What is the correct response if the drogue does not release after pulling left drogue release, right drogue release, and both together? Conduct\u2026",
+      "question": "What is the correct response if the drogue does not release after pulling left drogue release, right drogue release, and both together? Conduct…",
       "choices": {
-        "A": "Total Malfunction EP \u2014 Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
-        "B": "Partial Malfunction EP \u2014 CUTAWAY \u2192 ensure separation / clear risers \u2192 DEPLOY RESERVE.",
-        "C": "Open Container with Drogue Issues EP \u2014 DISCONNECT RSL \u2192 CUTAWAY \u2192 CLEAR RISERS \u2192 PULL RESERVE.",
-        "D": "Third Party Entanglement EP \u2014 Try to clear fast (\u2264 ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
+        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
+        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "A",
-      "rationale": "Neither drogue release fires \u2192 main tray won't open \u2192 total malfunction."
+      "rationale": "Neither drogue release fires → main tray won't open → total malfunction."
     },
     {
       "number": 75,
@@ -878,13 +878,13 @@
       "number": 78,
       "question": "What is the procedure for a videographer caught in your drogue bridle?",
       "choices": {
-        "A": "Total Malfunction EP \u2014 Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
-        "C": "Open Container with Drogue Issues EP \u2014 DISCONNECT RSL \u2192 CUTAWAY \u2192 CLEAR RISERS \u2192 PULL RESERVE.",
-        "B": "Partial Malfunction EP \u2014 CUTAWAY \u2192 ensure separation / clear risers \u2192 DEPLOY RESERVE.",
-        "D": "Third Party Entanglement EP \u2014 Try to clear fast (\u2264 ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
+        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
+        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
       },
       "correct": "D",
-      "rationale": "Videographer in your bridle \u2192 third-party entanglement EP."
+      "rationale": "Videographer in your bridle → third-party entanglement EP."
     },
     {
       "number": 79,
@@ -912,7 +912,7 @@
     },
     {
       "number": 81,
-      "question": "What can be done, after opening the main canopy, to make the student\u2019s harness more comfortable?",
+      "question": "What can be done, after opening the main canopy, to make the student’s harness more comfortable?",
       "choices": {
         "A": "Loosen the chest strap",
         "B": "Reposition the leg straps",
@@ -944,19 +944,20 @@
         "D": "3500ft (1100m)"
       },
       "correct": "D",
-      "rationale": "Decision altitude \u2248 3500 ft by SOP."
+      "rationale": "Decision altitude ≈ 3500 ft by SOP."
     },
     {
       "number": 84,
-      "question": "What is your \u2018do not cutaway below\u2019 altitude?",
+      "question": "What is your ‘do not cutaway below’ altitude?",
       "choices": {
         "A": "2000ft (600m)",
         "C": "2500ft (800m)",
         "B": "1500ft (500m)",
-        "D": "3000ft (1000m) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n--- PAGE 13 ---\n1645 Lexington Avenue, DeLand, FL 32724 -2106 USA \u2022 Telephone 386 -736-7589 \u2022 Fax 386- 734-7537 \u2022 www.uptvector.com \nsheryl@uptvector.com \nForm -291 Rev. 5 7/28/25 Copyright (c) 2025 by Uninsured United Parachute Technologies, LLC 13 of 13 Sigma Exam Knowledge Certification: \n \nThe following statement must be written by the Sigma Tandem Instructor Candidate in the space below: \n \u201cI, (Instructor Candidate Name), have completed and corrected this Sigma Tandem Examination to a score of 100% on (Date) at (Location). I have reviewed this exam in its entirety with my UPT Sigma \nTandem Examiner.\u201d \n ________________________________________________________________________________________\n________________________________________________________________________________________________________________________________________________________________________ ________\n________________________________________________________________ ________________________ \nInstructor Candidate Name : Examiner Name: \nCandidate Signature: Examiner Signature: \nDate: Date: \n \nExtra room for noted corrections: \n________________________________________________________________________________________\n________________________________________________________________________________________\n________________________________________________________________________________ ________\n________________________________________________________________________________________________________________________________________________________________________________\n________________________________________________________________________ ________________\n________________________________________________________________________________________\n________________________________________________________________________________________________________________________________________________________ ________________________\n________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ________________________________\n________________________________________________________________________________________\n________________________________________________________________________________________\n________________________________________________ ________________________________________\n________________________________________________________________________________________________________________________________________________________________________________________________________________________ ________________________________________________\n________________________________________________________ ________________________________"
+        "D": "3000ft (1000m) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n--- PAGE 13 ---\n1645 Lexington Avenue, DeLand, FL 32724 -2106 USA • Telephone 386 -736-7589 • Fax 386- 734-7537 • www.uptvector.com \nsheryl@uptvector.com \nForm -291 Rev. 5 7/28/25 Copyright (c) 2025 by Uninsured United Parachute Technologies, LLC 13 of 13 Sigma Exam Knowledge Certification: \n \nThe following statement must be written by the Sigma Tandem Instructor Candidate in the space below: \n “I, (Instructor Candidate Name), have completed and corrected this Sigma Tandem Examination to a score of 100% on (Date) at (Location). I have reviewed this exam in its entirety with my UPT Sigma \nTandem Examiner.” \n ________________________________________________________________________________________\n________________________________________________________________________________________________________________________________________________________________________ ________\n________________________________________________________________ ________________________ \nInstructor Candidate Name : Examiner Name: \nCandidate Signature: Examiner Signature: \nDate: Date: \n \nExtra room for noted corrections: \n________________________________________________________________________________________\n________________________________________________________________________________________\n________________________________________________________________________________ ________\n________________________________________________________________________________________________________________________________________________________________________________\n________________________________________________________________________ ________________\n________________________________________________________________________________________\n________________________________________________________________________________________________________________________________________________________ ________________________\n________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ________________________________\n________________________________________________________________________________________\n________________________________________________________________________________________\n________________________________________________ ________________________________________\n________________________________________________________________________________________________________________________________________________________________________________________________________________________ ________________________________________________\n________________________________________________________ ________________________________"
       },
       "correct": "B",
-      "rationale": "Do not cutaway below \u22481500 ft AGL."
+      "rationale": "Do not cutaway below ≈1500 ft AGL."
     }
-  ]
+  ],
+  "version": "clean-20250904212226"
 }
