@@ -5,12 +5,16 @@
       "question": "The responsibility to ensure the valid credentials of the UPT Sigma Tandem Examiner before the course \nbegins, belongs to whom?",
       "choices": {
         "A": "The Examiner",
-        "C": "The Tandem Instructor Candidate",
         "B": "UPT Tandem Admin",
+        "C": "The Tandem Instructor Candidate",
         "D": "None of the Above"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "C",
+      "rationale": "",
+      "correct_index": 3,
+      "correctLetter": "C",
+      "correctIndex": 2,
+      "correctText": "The Tandem Instructor Candidate"
     },
     {
       "number": 2,
@@ -19,8 +23,12 @@
         "A": "Yes",
         "B": "No"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "A",
+      "rationale": "",
+      "correct_index": 1,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "Yes"
     },
     {
       "number": 3,
@@ -29,8 +37,12 @@
         "A": "No",
         "B": "Yes"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "Yes"
     },
     {
       "number": 4,
@@ -39,87 +51,119 @@
         "A": "Yes",
         "B": "No"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "A",
+      "rationale": "",
+      "correct_index": 1,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "Yes"
     },
     {
       "number": 5,
       "question": "Normal drogue fall terminal velocity is?",
       "choices": {
         "A": "120mph (193 km/h)",
-        "C": "150mph (241 km/h)",
         "B": "130mph (209 km/h)",
+        "C": "150mph (241 km/h)",
         "D": "170mph (274 km/h)"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "A",
+      "rationale": "",
+      "correct_index": 1,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "120mph (193 km/h)"
     },
     {
       "number": 6,
       "question": "Tandem freefall terminal velocity is?",
       "choices": {
         "A": "120mph (193 km/h)",
-        "C": "150mph (241 km/h)",
         "B": "130mph (209 km/h)",
+        "C": "150mph (241 km/h)",
         "D": "170mph (274 km/h)"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "170mph (274 km/h)"
     },
     {
       "number": 7,
       "question": "How many seconds does it take to fall 1,000 feet at terminal velocity with a drogue ?",
       "choices": {
         "A": "2 Seconds",
-        "C": "6 Seconds",
         "B": "4 Seconds",
+        "C": "6 Seconds",
         "D": "8 Seconds"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "C",
+      "rationale": "",
+      "correct_index": 3,
+      "correctLetter": "C",
+      "correctIndex": 2,
+      "correctText": "6 Seconds"
     },
     {
       "number": 8,
       "question": "",
       "choices": {},
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 0,
+      "correctText": ""
     },
     {
       "number": 9,
       "question": "What is the main purpose of a drogue?",
       "choices": {
         "A": "To get stable on exit",
-        "C": "To aid in stability",
         "B": "Reduce tandem freefall velocity",
+        "C": "To aid in stability",
         "D": "To help avoid side spins"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "Reduce tandem freefall velocity"
     },
     {
       "number": 10,
       "question": "If a drogue is deployed after 20 seconds of tandem freefall, how long will it take to slow the tandem down to \n120 mph?",
       "choices": {
         "A": "6 seconds or 1000ft (300m)",
-        "C": "10 seconds or 2000ft (600m)",
         "B": "8 seconds or 1500ft (500m)",
+        "C": "10 seconds or 2000ft (600m)",
         "D": "12 seconds or 2500ft (800m)"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "C",
+      "rationale": "",
+      "correct_index": 3,
+      "correctLetter": "C",
+      "correctIndex": 2,
+      "correctText": "10 seconds or 2000ft (600m)"
     },
     {
       "number": 11,
       "question": "A packed Sigma tandem system and student harness weighs approximately?",
       "choices": {
         "A": "45 lbs. (20.4 kg)",
-        "C": "63 lbs. (28.6 kg)",
         "B": "40 lbs. (18.1 kg)",
+        "C": "63 lbs. (28.6 kg)",
         "D": "58 lbs. (26.3 kg)"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "58 lbs. (26.3 kg)"
     },
     {
       "number": 12,
@@ -131,515 +175,699 @@
         "D": "43 lbs. (19.5 kg)"
       },
       "correct": "A",
-      "rationale": "Micro Sigma tandem system + student harness weigh ≈56 lbs (25.4 kg)."
+      "rationale": "",
+      "correct_index": 1,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "56 lbs. (25.4 kg)"
     },
     {
       "number": 13,
       "question": "What is the minimum exit weight of the Sigma Tandem System?",
       "choices": {
         "A": "250 lbs. (113. 4 kg) for VR 360 / SR 370",
-        "C": "200 lbs. (90.7 kg) for VR 360 / SR 360",
         "B": "200 lbs. (90.7 kg) for VR 360 / SR 370 / \nSR 340",
+        "C": "200 lbs. (90.7 kg) for VR 360 / SR 360",
         "D": "No defined minimum exit weight"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "200 lbs. (90.7 kg) for VR 360 / SR 370 / \nSR 340"
     },
     {
       "number": 14,
-      "question": "What is the m aximum combined suspended weight for the Sigma system ? For the Micro Sigma Tandem \nsystem? (Specify both reserves)",
+      "question": "What is the maximum combined suspended weight for the Sigma system ? For the Micro Sigma Tandem \nsystem? (Specify both reserves)",
       "choices": {
         "A": "Maximum system weight minus tandem \ninstructor weight minus sigma system \nweight",
-        "C": "Sigma system weight minus student \nharness weight minus tandem instructor \nweight",
         "B": "Maximum system weight minus exit weight",
+        "C": "Sigma system weight minus student \nharness weight minus tandem instructor \nweight",
         "D": "Maximum system weight minus sigma \nsystem & student harness weight minus \ntandem instructor weight"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "Maximum system weight minus sigma \nsystem & student harness weight minus \ntandem instructor weight"
     },
     {
       "number": 15,
       "question": "",
       "choices": {},
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 0,
+      "correctText": ""
     },
     {
       "number": 16,
       "question": "How long should the trap door effect be?",
       "choices": {
         "A": "1.5 seconds",
-        "C": "0.5 a second",
         "B": "1 second",
+        "C": "0.5 a second",
         "D": "¾ of a second"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "¾ of a second"
     },
     {
       "number": 17,
       "question": "What problem is caused by a drogue center line that is too short?",
       "choices": {
         "A": "Hard opening",
-        "C": "Longer than normal trap door effect",
         "B": "Slower than normal tandem terminal \nspeed",
+        "C": "Longer than normal trap door effect",
         "D": "None of the above"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "C",
+      "rationale": "",
+      "correct_index": 3,
+      "correctLetter": "C",
+      "correctIndex": 2,
+      "correctText": "Longer than normal trap door effect"
     },
     {
       "number": 18,
       "question": "What problem is caused by a drogue center line that is too long?",
       "choices": {
         "A": "Drogue will not extract the bag",
-        "C": "Slower than normal drogue fall speed",
         "B": "Pilot chute in tow",
+        "C": "Slower than normal drogue fall speed",
         "D": "Higher snatch force, hard opening"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "Higher snatch force, hard opening"
     },
     {
       "number": 19,
       "question": "How can you tell if a drogue was cocked during packing?",
       "choices": {
         "A": "It was packed by a rigger",
-        "C": "Bridle scrunched and drogue centerline \nwindow color",
         "B": "If the safety pin is seated correctly",
+        "C": "Bridle scrunched and drogue centerline \nwindow color",
         "D": "If the closing loop is properly routed"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "C",
+      "rationale": "",
+      "correct_index": 3,
+      "correctLetter": "C",
+      "correctIndex": 2,
+      "correctText": "Bridle scrunched and drogue centerline \nwindow color"
     },
     {
       "number": 20,
       "question": "What might happen if you deploy a drogue which had not been cocked properly during packing?",
       "choices": {
         "A": "Could cause instability",
-        "C": "Terminal velocity increases. Drogue \nshould inflate within 6 -8 seconds",
         "B": "Will not create enough drag to pull safety \npin",
+        "C": "Terminal velocity increases. Drogue \nshould inflate within 6 -8 seconds",
         "D": "It will not deploy the main"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "Will not create enough drag to pull safety \npin"
     },
     {
       "number": 21,
       "question": "What would happen if you held onto the drogue during drogue deployment?",
       "choices": {
-        "A": "Normal drogue deployment",
-        "B": "Open Container with Drogue Issues EP",
-        "C": "Possible entanglement with drogue bridle",
-        "D": "Premature Deployment"
+        "A": "To ensure the drogue is cocked",
+        "B": "Guarantees an in-sequence deployment",
+        "C": "Ensures the main container opens before the drogue collapses",
+        "D": "Helps prevent the main container from opening prematurely"
       },
       "correct": "C",
-      "rationale": "Restraining the drogue can snag or wrap the bridle around you/your student."
+      "rationale": "",
+      "correct_index": 3,
+      "correctLetter": "C",
+      "correctIndex": 2,
+      "correctText": "Ensures the main container opens before the drogue collapses"
     },
     {
       "number": 22,
       "question": "",
       "choices": {},
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 0,
+      "correctText": ""
     },
     {
       "number": 23,
       "question": "What length should the exposed kill line be above the grommet at the base of the drogue envelope during \ndrogue calibration?",
       "choices": {
         "A": "2.5” – 5.5” ( 64mm – 140mm) for a 60” \ndrogue",
-        "C": "7.5” (191mm) for a 60” drogue",
         "B": "1.5” – 5” (39mm – 128mm) for a 54” \ndrogue",
+        "C": "7.5” (191mm) for a 60” drogue",
         "D": "B and C are correct"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "B and C are correct"
     },
     {
       "number": 24,
       "question": "How often should the drogue calibration be checked ?",
       "choices": {
         "A": "Between each reserve repack cycle",
-        "C": "Approximately every 30 days",
         "B": "During every main pack",
+        "C": "Approximately every 30 days",
         "D": "Approximately every 25 jumps"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "Approximately every 25 jumps"
     },
     {
       "number": 25,
       "question": "What would happen if the kill line were not attached to the #5 link at the top of the main deployment bag or \nthe kill line were to break during deployment?",
       "choices": {
         "A": "Slower than normal canopy deployment",
-        "C": "A and B are correct",
         "B": "The drogue will collapse",
+        "C": "A and B are correct",
         "D": "The drogue would not collapse"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "The drogue would not collapse"
     },
     {
       "number": 26,
-      "question": "What are the negative consequences if the drogue fails to collapse (as described in question #25)?",
+      "question": "If the kill line were NOT attached to the #5 link at the top of the main deployment bag or if it broke during deployment (the drogue would not collapse – see Q25), what are the likely negative consequences?",
       "choices": {
         "A": "Potential for hard opening",
-        "B": "Open container with drogue issues malfunction",
+        "B": "Open container with drogue issues \nmalfunction",
         "C": "Streamer malfunction",
         "D": "Total malfunction"
       },
       "correct": "A",
-      "rationale": "A drogue that does not collapse can drive high snatch forces → potential for hard opening."
+      "rationale": "",
+      "correct_index": 1,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "Potential for hard opening"
     },
     {
       "number": 27,
       "question": "Explain the negative consequences of loose student side attachment straps on exit?",
       "choices": {
         "A": "Rocking drogue fall, student’s legs outside \ninstructors",
-        "C": "Harder to get stable, buffeting",
         "B": "Uncontrollable turns, unstable drogue fall",
+        "C": "Harder to get stable, buffeting",
         "D": "All of the above"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "All of the above"
     },
     {
       "number": 28,
       "question": "What is the main reason to avoid reaching in front of a student?",
       "choices": {
-        "A": "The trap door effect",
-        "C": "An uninflated drogue",
-        "B": "The safety pin releasing",
-        "D": "Separation from the main canopy risers"
+        "A": "This is the appropriate response to put the student into the proper position",
+        "B": "The student might grab your arms",
+        "C": "Can cause instability",
+        "D": "Can cause bad handcam footage"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "The student might grab your arms"
     },
     {
       "number": 29,
       "question": "",
       "choices": {},
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "A",
+      "rationale": "",
+      "correct_index": 1,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": ""
     },
     {
       "number": 30,
       "question": "Which direction should the closing pin be inserted?",
       "choices": {
         "A": "In the 11 o’clock position",
-        "C": "From the bottom of the container",
         "B": "In the direction of the arrow on the disk",
+        "C": "From the bottom of the container",
         "D": "A and C are correct"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "A and C are correct"
     },
     {
       "number": 31,
       "question": "What might happen if the closing pin is inserted from or pointing in the wrong direction?",
       "choices": {
         "A": "It could cause a Partial Malfunction",
-        "C": "It could cause a Horseshoe Malfunction",
         "B": "It could cause a Total Malfunction",
+        "C": "It could cause a Horseshoe Malfunction",
         "D": "It could cause an Open Container with \nDrogue Issues Malfunction"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "C",
+      "rationale": "",
+      "correct_index": 3,
+      "correctLetter": "C",
+      "correctIndex": 2,
+      "correctText": "It could cause a Horseshoe Malfunction"
     },
     {
       "number": 32,
       "question": "What will happen to the pull force if you pack twists into the ripcords below the pin?",
       "choices": {
         "A": "Cause a Partial Malfunction",
-        "C": "Cause hard pulls",
         "B": "Cause a collapsed drogue in tow",
+        "C": "Cause hard pulls",
         "D": "None of the above"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "C",
+      "rationale": "",
+      "correct_index": 3,
+      "correctLetter": "C",
+      "correctIndex": 2,
+      "correctText": "Cause hard pulls"
     },
     {
       "number": 33,
       "question": "What AAD unit manufacturers are authorized for the Sigma Tandem System? (In the approved tandem \nconfiguration or mode)",
       "choices": {
         "A": "Mars",
-        "C": "Vigil",
         "B": "Cypres",
+        "C": "Vigil",
         "D": "All of the above"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "All of the above"
     },
     {
       "number": 34,
       "question": "The red lanyard attached to the Sigma RSL is connected to the…",
       "choices": {
         "A": "Collins Lanyard",
-        "C": "Skyhook",
         "B": "Reserve Pin",
+        "C": "Skyhook",
         "D": "Cutaway Handle"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "C",
+      "rationale": "",
+      "correct_index": 3,
+      "correctLetter": "C",
+      "correctIndex": 2,
+      "correctText": "Skyhook"
     },
     {
       "number": 35,
       "question": "The Collins Lanyard is designed to do what?",
       "choices": {
         "A": "Activate the Skyhook",
-        "C": "To act as a secondary cutaway device",
         "B": "Deploy the reserve",
+        "C": "To act as a secondary cutaway device",
         "D": "Release non -RSL riser if the right riser \nreleases prematurely"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "Release non -RSL riser if the right riser \nreleases prematurely"
     },
     {
       "number": 36,
       "question": "What does the 17 Point Check represent?",
       "choices": {
-        "A": "4500ft (1400m)",
-        "C": "3500ft (1100m)",
-        "B": "4000ft (1200m)",
-        "D": "3000ft (1000m)"
+        "A": "Handles check",
+        "B": "Canopy control check",
+        "C": "Gear check",
+        "D": "Aircraft preflight check"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "C",
+      "rationale": "",
+      "correct_index": 3,
+      "correctLetter": "C",
+      "correctIndex": 2,
+      "correctText": "Gear check"
     },
     {
       "number": 37,
       "question": "",
       "choices": {},
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 0,
+      "correctText": ""
     },
     {
       "number": 38,
       "question": "What is the minimum exit altitude for tandem jumps after probation?",
       "choices": {
         "A": "9500ft (3000m) AGL",
-        "C": "7500ft (2300m) AGL",
         "B": "9500ft (3000m) MSL",
+        "C": "7500ft (2300m) AGL",
         "D": "7500ft (2300m) MSL"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "C",
+      "rationale": "",
+      "correct_index": 3,
+      "correctLetter": "C",
+      "correctIndex": 2,
+      "correctText": "7500ft (2300m) AGL"
     },
     {
       "number": 39,
       "question": "What are the leading causes for a tandem pair going unstable when leaving the aircraft?",
       "choices": {
         "A": "Improper harnessing",
-        "C": "Improper set up, launch, fly away",
         "B": "Poor presentation into the relative wind",
+        "C": "Improper set up, launch, fly away",
         "D": "All of the above"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "All of the above"
     },
     {
       "number": 40,
       "question": "Where can you find the regulations on who may do RW with a tandem pair?",
       "choices": {
         "A": "Sigma Manual",
-        "C": "UPT SOPs",
         "B": "Examiner Manual",
+        "C": "UPT SOPs",
         "D": "All of the above"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "All of the above"
     },
     {
       "number": 41,
       "question": "Where do you find the requirements for videographer qualifications before they can film a tandem?",
       "choices": {
         "A": "USPA BSR",
-        "C": "DZ Policy Handbook",
         "B": "UPT Service Bulletins",
+        "C": "DZ Policy Handbook",
         "D": "Sigma Manual"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "Sigma Manual"
     },
     {
       "number": 42,
       "question": "When should the drogue be deployed during a stable, uneventful tandem exit?",
       "choices": {
         "A": "Within 3 seconds of leaving the aircraft",
-        "C": "10 seconds",
         "B": "5-8 seconds",
+        "C": "10 seconds",
         "D": "Immediately if you feel instability"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "",
+      "correct_index": 1,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "5-8 seconds"
     },
     {
       "number": 43,
-      "question": "Is backing out of a side door aircraft on tandem jump s allowed?",
+      "question": "Is backing out of a side door aircraft on tandem jumps allowed?",
       "choices": {
         "A": "Yes",
         "B": "No"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "No"
     },
     {
       "number": 44,
       "question": "What is the minimum horizontal separation under canopy for a tandem from any other canopy ?",
       "choices": {
         "A": "1000ft (300m)",
-        "C": "500ft (150m)",
         "B": "100ft (30m)",
+        "C": "500ft (150m)",
         "D": "There is no minimum"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "100ft (30m)"
     },
     {
       "number": 45,
       "question": "The responsibility for pre -flighting a UPT Tandem system belongs to?",
       "choices": {
         "A": "Chief Instructor",
-        "C": "DZ Owner",
         "B": "Tandem Instructor jumping the system",
+        "C": "DZ Owner",
         "D": "Safety and Training Advisor"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "A",
+      "rationale": "",
+      "correct_index": 1,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "Chief Instructor"
     },
     {
       "number": 46,
       "question": "",
       "choices": {},
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 0,
+      "correctText": ""
     },
     {
       "number": 47,
       "question": "What is the proper student arm position on exit?",
       "choices": {
         "A": "Thumbs under the main lift web, arms \ncrossed",
-        "C": "Arms at the side",
         "B": "Thumbs under the main lift web, arms \nuncrossed",
+        "C": "Arms at the side",
         "D": "Arms in a neutral box position"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "Thumbs under the main lift web, arms \nuncrossed"
     },
     {
       "number": 48,
       "question": "What is the minimum briefing you should give any student before a tandem jump?",
       "choices": {
         "A": "Briefing on how to exit and freefall",
-        "C": "Briefing on how to land",
         "B": "Briefing items under FA R Part 105.45 OR \nin accordance with governing body’s \ntandem briefing requirements",
+        "C": "Briefing on how to land",
         "D": "Briefing on aircraft procedures"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "Briefing items under FA R Part 105.45 OR \nin accordance with governing body’s \ntandem briefing requirements"
     },
     {
       "number": 49,
       "question": "What is a negative aspect of over training a tandem student?",
       "choices": {
         "A": "Student overconfidence",
-        "C": "Student becomes afraid",
         "B": "Information overload",
+        "C": "Student becomes afraid",
         "D": "Student refusal"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "Information overload"
     },
     {
       "number": 50,
       "question": "What is the minimum age for tandem jumping on a UPT Sigma within the United States?",
       "choices": {
         "A": "Age of legal consent",
-        "C": "21 years of age",
         "B": "18 years of age",
+        "C": "21 years of age",
         "D": "With parental consent"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "18 years of age"
     },
     {
       "number": 51,
       "question": "Which administrative actions does uninsured United Parachute Technologies, LLC require before a \npassenger / student does a tandem jump?",
       "choices": {
         "A": "B and D are correct",
-        "C": "USA Tandem Waiver Video",
         "B": "UPT Assumption of Risk Waiver",
+        "C": "USA Tandem Waiver Video",
         "D": "USPA or UPT Assumption of Risk Waiver \nVideo"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "A",
+      "rationale": "",
+      "correct_index": 1,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "B and D are correct"
     },
     {
       "number": 52,
-      "question": "How many tandem jumps in the last 12 months must a rated instructor make to renew a tandem rating?",
+      "question": "How many tandem jumps in the last 12 months must a rated instructor make to renew a tandem rating ?",
       "choices": {
-        "A": "20 jumps",
-        "B": "25 jumps",
-        "C": "15 jumps",
-        "D": "30 jumps"
+        "A": "Review SOPs and 2 jumps with an \nevaluator",
+        "B": "Review SOPs and 1 jump with an \nexperienced jumper",
+        "C": "Review SOPs and 2 jumps under the \nsupervision of an examiner",
+        "D": "Review SOPs and 2 jumps with an \nexperienced jumper"
       },
       "correct": "B",
-      "rationale": "Minimum of 25 tandem jumps in the preceding 12 months for renewal."
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "Review SOPs and 1 jump with an \nexperienced jumper"
     },
     {
       "number": 53,
       "question": "",
       "choices": {},
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 0,
+      "correctText": ""
     },
     {
       "number": 54,
       "question": "If a Tandem Instructor (after probation) has not made a tandem jump between 181 days – 2 years, they \nmust:",
       "choices": {
         "A": "Review SOPs, EPs and 2 jumps with an \nevaluator",
-        "C": "Review SOPs, EPs, 1 solo jump and 1 \ntandem jump with an experience jumper \nunder the supervision of an examiner",
         "B": "Review SOPs, EPs and 1 jump with an \nexperienced jumper",
+        "C": "Review SOPs, EPs, 1 solo jump and 1 \ntandem jump with an experience jumper \nunder the supervision of an examiner",
         "D": "Review SOPs, EPs and 2 jumps with an \nexperienced jumper"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "C",
+      "rationale": "",
+      "correct_index": 3,
+      "correctLetter": "C",
+      "correctIndex": 2,
+      "correctText": "Review SOPs, EPs, 1 solo jump and 1 \ntandem jump with an experience jumper \nunder the supervision of an examiner"
     },
     {
       "number": 55,
       "question": "What additional training must a student be given if they have access to the drogue release?",
       "choices": {
         "A": "Be given an altimeter and trained how to \nuse it, 3 PRCPs with full gear on",
-        "C": "Be given an altimeter",
         "B": "Where the pull handle is and how to use it",
+        "C": "Be given an altimeter",
         "D": "That they must pull 6 inches and then \nrelease"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "A",
+      "rationale": "",
+      "correct_index": 1,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "Be given an altimeter and trained how to \nuse it, 3 PRCPs with full gear on"
     },
     {
       "number": 56,
       "question": "Under what circumstances is relative work (docking) not permitted?",
       "choices": {
         "A": "Never",
-        "C": "It is always permitted as long as the \nvideographer only docks onto the \npassenger",
         "B": "When the student has access to the \ndrogue release and has been trained how \nto use it",
+        "C": "It is always permitted as long as the \nvideographer only docks onto the \npassenger",
         "D": "It is always permitted as long as the \nvideographer only docks onto the \ninstructor"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "B",
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "When the student has access to the \ndrogue release and has been trained how \nto use it"
     },
     {
       "number": 57,
       "question": "What is the minimum number of tandem jumps that need to be made before using a handcam on tandem \njumps?",
       "choices": {
         "A": "25 jumps",
-        "C": "125 jumps",
         "B": "50 jumps",
+        "C": "125 jumps",
         "D": "225 jumps"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "225 jumps"
     },
     {
       "number": 58,
@@ -649,74 +877,102 @@
         "B": "No"
       },
       "correct": "B",
-      "rationale": "Pole camera mounts are not authorized for handcam tandem jumps."
+      "rationale": "",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "No"
     },
     {
       "number": 59,
       "question": "What is the maximum degree of turn for tandem canopies at or below 500ft (150m) AGL?",
       "choices": {
-        "A": "0° (no turns)",
-        "B": "45°",
-        "C": "90°",
+        "A": "90 degrees",
+        "B": "180 degrees",
+        "C": "Whatever is necessary for a safe landing",
         "D": "Depends on wind conditions"
       },
       "correct": "A",
-      "rationale": "Below 500 ft AGL, make no turns (0°) by SOP."
+      "rationale": "At or below 500 ft AGL, limit turns to shallow (≈45°) for safety.",
+      "correct_index": 1,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "90 degrees"
     },
     {
       "number": 60,
       "question": "",
       "choices": {},
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "A",
+      "rationale": "",
+      "correct_index": 1,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": ""
     },
     {
       "number": 61,
-      "question": "When are you to start your handle s check?",
+      "question": "When are you to start your handles check?",
       "choices": {
         "A": "Once you are stable",
-        "C": "After you set drogue and check drogue",
         "B": "At some point before drogue release",
+        "C": "After you set drogue and check drogue",
         "D": "After you set drogue"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "C",
+      "rationale": "",
+      "correct_index": 3,
+      "correctLetter": "C",
+      "correctIndex": 2,
+      "correctText": "After you set drogue and check drogue"
     },
     {
       "number": 62,
       "question": "What is the correct procedure for handles check in order of execution:",
       "choices": {
         "A": "Cutaway, reserve, altitude",
-        "C": "The order is not important as long as you touch all the handles",
         "B": "Left drogue release, secondary , cutaway , \nreserve, crystal ball",
+        "C": "The order is not important as long as you touch all the handles",
         "D": "Left drogue release, right drogue release, cutaway, reserve, RSL, altitude"
       },
-      "correct": "TBD",
-      "rationale": ""
+      "correct": "D",
+      "rationale": "",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "Left drogue release, right drogue release, cutaway, reserve, RSL, altitude"
     },
     {
       "number": 63,
       "question": "Describe the correct aircraft emergency procedure below 1,500 ft (500m) .",
       "choices": {
         "A": "If aircraft is stable, stay with the aircraft and follow directions from the pilot. Ensure \nthe student is seated and seat belted",
-        "C": "Assure the student that everything is going \nto be okay",
         "B": "If aircraft has catastrophic damage, attach as many attachment points as the \nsituation will allow, starting with the upper \nleft hook. Hold the student with right arm and legs if needed, exit and immediately \ndeploy the reserve",
+        "C": "Assure the student that everything is going \nto be okay",
         "D": "A and B is correct"
       },
       "correct": "D",
-      "rationale": "Below 1500 ft: stay with aircraft if stable; if catastrophic, attach, exit, deploy reserve."
+      "rationale": "Below 1500 ft: stay with stable aircraft; catastrophic damage: attach student, exit, deploy reserve.",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "A and B is correct"
     },
     {
       "number": 64,
       "question": "Describe the correct aircraft emergency procedure between 1,500ft (500m) and 4000ft (1200m) .",
       "choices": {
         "A": "Attach the student, exit the aircraft and immediately deploy the reserve",
-        "C": "Stay in the aircraft and land with the airplane",
         "B": "Assure to the student that everything is \ngoing to be okay",
+        "C": "Stay in the aircraft and land with the airplane",
         "D": "None of the above"
       },
       "correct": "A",
-      "rationale": "1500–4000 ft: attach, exit, deploy reserve immediately."
+      "rationale": "1500–4000 ft: attach student, exit, immediately deploy reserve.",
+      "correct_index": 1,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "Attach the student, exit the aircraft and immediately deploy the reserve"
     },
     {
       "number": 65,
@@ -728,7 +984,11 @@
         "D": "None of the above"
       },
       "correct": "C",
-      "rationale": ">4000 ft: attach, exit, set/inflate drogue, then release to main."
+      "rationale": ">4000 ft: attach student, exit, set/inflate drogue, then release to main.",
+      "correct_index": 3,
+      "correctLetter": "C",
+      "correctIndex": 2,
+      "correctText": "Attach the student, exit, set and inflate the drogue, then release drogue"
     },
     {
       "number": 66,
@@ -740,175 +1000,235 @@
         "D": "Cutaway, ensure separation, deploy reserve"
       },
       "correct": "D",
-      "rationale": "Partial malfunction: cutaway → ensure riser separation → deploy reserve."
+      "rationale": "Partial malfunction: cutaway → ensure riser separation → deploy reserve.",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "Cutaway, ensure separation, deploy reserve"
     },
     {
       "number": 67,
       "question": "What is the correct procedure for a premature deployment of your main (horseshoe) in which you cannot \ndeploy the drogue?",
       "choices": {
-        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
-        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
-        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
-        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
+        "A": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
+        "B": "Partial Malfunction EP — Main out but not landable: CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "C": "Open Container with Drogue Issues EP — Container open w/ horseshoe or drogue problems: DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "D": "Third Party Entanglement EP — Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR ≤ ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
       },
       "correct": "C",
-      "rationale": "Container open with drogue issues → follow that EP branch."
+      "rationale": "Container open and drogue issues are handled under the Open-Container-with-Drogue-Issues EP.",
+      "correct_index": 3,
+      "correctLetter": "C",
+      "correctIndex": 2,
+      "correctText": "Open Container with Drogue Issues EP — Container open w/ horseshoe or drogue problems: DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE."
     },
     {
       "number": 68,
       "question": "Which is the correct response to an inflated drogue (“in tow”) that does not release the main pin during a \nmain canopy deployment attempt?",
       "choices": {
-        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
-        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
-        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
-        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
+        "A": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
+        "B": "Partial Malfunction EP — Main out but not landable: CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "C": "Open Container with Drogue Issues EP — Container open w/ horseshoe or drogue problems: DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "D": "Third Party Entanglement EP — Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR ≤ ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
       },
       "correct": "A",
-      "rationale": "Inflated drogue that doesn't extract pin → container closed → total malfunction."
+      "rationale": "Inflated drogue that doesn’t pull the pin leaves the container closed → treat as Total Malfunction.",
+      "correct_index": 1,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately."
     },
     {
       "number": 69,
       "question": "What is the correct response to an uninflated drogue right after drogue set ?",
       "choices": {
         "A": "Wait 6 -8 seconds for drogue to inflate, if it \ndoes not, pull drogue release",
-        "C": "Wait 6 -8 seconds for drogue to inflate, if it \ndoes not, Partial Malfunction EP",
         "B": "Wait 6-8 seconds for drogue to inflate, if it \ndoes not, Total Malfunction EP",
+        "C": "Wait 6 -8 seconds for drogue to inflate, if it \ndoes not, Partial Malfunction EP",
         "D": "Dip a shoulder to get clean air into your \nburble"
       },
       "correct": "A",
-      "rationale": "If drogue doesn't inflate, wait ~6–8 s then pull a drogue release."
+      "rationale": "If drogue does not inflate, wait ~6–8 s, then pull a drogue release.",
+      "correct_index": 1,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "Wait 6 -8 seconds for drogue to inflate, if it \ndoes not, pull drogue release"
     },
     {
       "number": 70,
       "question": "What is the correct response to a collapsed drogue in tow ?",
       "choices": {
-        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
-        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
-        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
-        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
+        "A": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
+        "B": "Partial Malfunction EP — Main out but not landable: CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "C": "Open Container with Drogue Issues EP — Container open w/ horseshoe or drogue problems: DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "D": "Third Party Entanglement EP — Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR ≤ ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
       },
-      "correct": "C",
-      "rationale": "Collapsed drogue in tow with container open → disconnect RSL, cutaway, clear risers, pull reserve."
+      "correct": "A",
+      "rationale": "Collapsed drogue in tow (container open) → open-container-with-drogue-issues branch.",
+      "correct_index": 3,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately."
     },
     {
       "number": 71,
       "question": "What should you do if you accidentally pull the drogue release handle before you deploy the drogue?",
       "choices": {
         "A": "Expect the trap door effect",
-        "C": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
         "B": "Set the drogue",
+        "C": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
         "D": "Expect main canopy deployment"
       },
       "correct": "B",
-      "rationale": "Pulled release before setting drogue? Set the drogue (no drogue = no main)."
+      "rationale": "If drogue release was pulled before deploying the drogue, set the drogue.",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "Set the drogue"
     },
     {
       "number": 72,
       "question": "What should you do if you can’t extract the drogue from its pouch after your second attempt within 10 \nseconds after exit?",
       "choices": {
-        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
-        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
-        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
-        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
+        "A": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
+        "B": "Partial Malfunction EP — Main out but not landable: CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "C": "Open Container with Drogue Issues EP — Container open w/ horseshoe or drogue problems: DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "D": "Third Party Entanglement EP — Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR ≤ ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
       },
       "correct": "A",
-      "rationale": "Can't extract drogue after two attempts/~10s → total malfunction."
+      "rationale": "If you can’t extract the drogue after two attempts and ~10 s, go to Total Malfunction (reserve).",
+      "correct_index": 1,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately."
     },
     {
       "number": 73,
       "question": "What should you do if the bridle wraps around you or your passenger and you can’t clear it ?",
       "choices": {
-        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
-        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
-        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
-        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
+        "A": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
+        "B": "Partial Malfunction EP — Main out but not landable: CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "C": "Open Container with Drogue Issues EP — Container open w/ horseshoe or drogue problems: DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "D": "Third Party Entanglement EP — Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR ≤ ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
       },
-      "correct": "D",
-      "rationale": "Bridle around person that can't be cleared promptly → third-party entanglement."
+      "correct": "A",
+      "rationale": "Bridle wraps on you/student and cannot be cleared → treat as third-party entanglement.",
+      "correct_index": 4,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately."
     },
     {
       "number": 74,
       "question": "What is the correct response if the drogue does not release after pulling left drogue release, right drogue release, and both together? Conduct…",
       "choices": {
-        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
-        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
-        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
-        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
+        "A": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
+        "B": "Partial Malfunction EP — Main out but not landable: CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "C": "Open Container with Drogue Issues EP — Container open w/ horseshoe or drogue problems: DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "D": "Third Party Entanglement EP — Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR ≤ ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
       },
       "correct": "A",
-      "rationale": "Neither drogue release fires → main tray won't open → total malfunction."
+      "rationale": "No release from either drogue handle → main tray won’t open → Total Malfunction.",
+      "correct_index": 1,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately."
     },
     {
       "number": 75,
       "question": "Explain the correct way to pull your reserve or cutaway handles free of their Velcro pockets.",
       "choices": {
-        "A": "Peel upward and outward, the n pull \ndownward",
-        "C": "Peel using both hands",
+        "A": "Peel upward and outward, then pull \ndownward",
         "B": "Grab handle and punch down",
+        "C": "Peel using both hands",
         "D": "As fast as possible"
       },
       "correct": "A",
-      "rationale": "Peel handles up/out from Velcro, then pull down."
+      "rationale": "Peel upward and outward to break Velcro, then pull downward.",
+      "correct_index": 1,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "Peel upward and outward, then pull \ndownward"
     },
     {
       "number": 76,
       "question": "What would you do if your left shoulder was dislocated, and you needed to pull your reserve?",
       "choices": {
         "A": "Pull the reserve handle using your right \nhand",
-        "C": "Nothing, the AAD will activate at 2000ft \n(600m)",
         "B": "Ask the student to pull the reserve handle \nfor you",
+        "C": "Nothing, the AAD will activate at 2000ft \n(600m)",
         "D": "Disconnect RSL and pull upwards using \nthe RSL Lanyard to deploy the reserve"
       },
       "correct": "D",
-      "rationale": "Use RSL lanyard method if shoulder injured and reserve needed."
+      "rationale": "With left shoulder dislocation, use RSL lanyard method to deploy the reserve.",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "Disconnect RSL and pull upwards using \nthe RSL Lanyard to deploy the reserve"
     },
     {
       "number": 77,
       "question": "What is the primary cause of tandem incidents that result in a fatality ?",
       "choices": {
         "A": "Poor gear maintenance",
-        "C": "Instructor error",
         "B": "Poor packing",
+        "C": "Instructor error",
         "D": "Canopy collisions"
       },
       "correct": "C",
-      "rationale": "Primary causal factor historically: instructor error."
+      "rationale": "Most common factor is instructor error.",
+      "correct_index": 3,
+      "correctLetter": "C",
+      "correctIndex": 2,
+      "correctText": "Instructor error"
     },
     {
       "number": 78,
-      "question": "What is the procedure for a videographer caught in your drogue bridle?",
+      "question": "What is the procedure for a drogue entanglement with a solo skydiver (videographer)?",
       "choices": {
-        "A": "Total Malfunction EP — Deploy RESERVE. (Container closed / no drogue / can't set after ~2 attempts or ~10 s.)",
-        "C": "Open Container with Drogue Issues EP — DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
-        "B": "Partial Malfunction EP — CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
-        "D": "Third Party Entanglement EP — Try to clear fast (≤ ~10 s). If still entangled: DEPLOY RESERVE (no cutaway first). Maintain arch, protect handles, manage two-canopy outcome."
+        "A": "Release RSL → Cutaway → Pull RIGHT drogue release (left if needed) → Ensure full main & riser release → Track 4–5 s for horizontal separation → Pull RESERVE",
+        "B": "Attempt to clear for up to ~10 s; if still entangled, deploy the RESERVE first (no cutaway)",
+        "C": "Cutaway only, do not deploy the reserve",
+        "D": "Deploy the reserve immediately while staying attached to main"
       },
       "correct": "D",
-      "rationale": "Videographer in your bridle → third-party entanglement EP."
+      "rationale": "Per Sigma manual: for drogue entanglement with a solo skydiver, disconnect RSL, perform a cutaway, then pull the right-side drogue release, confirm full main/riser release, gain horizontal separation (track), and then deploy the reserve.",
+      "correct_index": 1,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "Deploy the reserve immediately while staying attached to main"
     },
     {
       "number": 79,
       "question": "In an entanglement scenario where both jumpers have no good canopy and are below 3000ft (900m) , what \nshould the entangled parachutists do ?",
       "choices": {
         "A": "Both jumpers deploy their reserves",
-        "C": "The higher jumper initiates cutaway first, \nfollowed by the lower jumper",
         "B": "The lower jumper initiates cutaway to \nincrease separation",
+        "C": "The higher jumper initiates cutaway first, \nfollowed by the lower jumper",
         "D": "Both jumpers disconnect RSLs and \nattempt to climb above the other"
       },
-      "correct": "B",
-      "rationale": "Below 3000 ft with no good canopies: lower jumper cuts away to increase separation."
+      "correct": "A",
+      "rationale": "Below 3000 ft with no good canopies: lower jumper cuts away first to increase separation.",
+      "correct_index": 2,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "Both jumpers deploy their reserves"
     },
     {
       "number": 80,
       "question": "What is the proper instructor action in a high wind landing with no ground assistance available?",
       "choices": {
-        "A": "Loosen the chest strap",
-        "C": "Have the student sit back in the harness",
-        "B": "Reposition the leg straps",
-        "D": "All of the above"
+        "A": "Keep toggles in both hands and run with the canopy",
+        "B": "Collapse the canopy by releasing one toggle and pulling the other hand-over-hand. If unsuccessful, disconnect RSL and cutaway",
+        "C": "Immediately pull the cutaway handle while airborne",
+        "D": "Disconnect the RSL and PLF with toggles in hand"
       },
       "correct": "B",
-      "rationale": "High winds: collapse canopy; if not, disconnect RSL and cutaway."
+      "rationale": "In high wind landings without ground assistance, first attempt to collapse the canopy using toggles; if that fails, disconnect RSL and cutaway.",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "Collapse the canopy by releasing one toggle and pulling the other hand-over-hand. If unsuccessful, disconnect RSL and cutaway"
     },
     {
       "number": 81,
@@ -920,44 +1240,60 @@
         "D": "All of the above"
       },
       "correct": "D",
-      "rationale": "Loosen chest strap, reposition leg straps, and have student sit back."
+      "rationale": "Post-opening comfort: loosen chest strap, reposition leg straps, and have student sit back.",
+      "correct_index": 4,
+      "correctLetter": "D",
+      "correctIndex": 3,
+      "correctText": "All of the above"
     },
     {
       "number": 82,
       "question": "The Side Lateral Connections must be detached, loosened, and reattached where ?",
       "choices": {
         "A": "Instructor side lateral connection rings",
-        "C": "They should never be detached",
         "B": "Onto the student harness",
+        "C": "They should never be detached",
         "D": "There is no need to reattach anywhere"
       },
       "correct": "B",
-      "rationale": "Side laterals reattach onto the student harness."
+      "rationale": "Side laterals must be reattached onto the student harness.",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "Onto the student harness"
     },
     {
       "number": 83,
       "question": "What is your decision altitude?",
       "choices": {
         "A": "3000ft (1000m)",
-        "C": "2500ft (800m)",
         "B": "4000ft (1200m)",
+        "C": "2500ft (800m)",
         "D": "3500ft (1100m)"
       },
-      "correct": "D",
-      "rationale": "Decision altitude ≈ 3500 ft by SOP."
+      "correct": "A",
+      "rationale": "Decision altitude ≈ 3500 ft (per SOP; configurable).",
+      "correct_index": 4,
+      "correctLetter": "A",
+      "correctIndex": 0,
+      "correctText": "3000ft (1000m)"
     },
     {
       "number": 84,
       "question": "What is your ‘do not cutaway below’ altitude?",
       "choices": {
         "A": "2000ft (600m)",
-        "C": "2500ft (800m)",
         "B": "1500ft (500m)",
-        "D": "3000ft (1000m) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n--- PAGE 13 ---\n1645 Lexington Avenue, DeLand, FL 32724 -2106 USA • Telephone 386 -736-7589 • Fax 386- 734-7537 • www.uptvector.com \nsheryl@uptvector.com \nForm -291 Rev. 5 7/28/25 Copyright (c) 2025 by Uninsured United Parachute Technologies, LLC 13 of 13 Sigma Exam Knowledge Certification: \n \nThe following statement must be written by the Sigma Tandem Instructor Candidate in the space below: \n “I, (Instructor Candidate Name), have completed and corrected this Sigma Tandem Examination to a score of 100% on (Date) at (Location). I have reviewed this exam in its entirety with my UPT Sigma \nTandem Examiner.” \n ________________________________________________________________________________________\n________________________________________________________________________________________________________________________________________________________________________ ________\n________________________________________________________________ ________________________ \nInstructor Candidate Name : Examiner Name: \nCandidate Signature: Examiner Signature: \nDate: Date: \n \nExtra room for noted corrections: \n________________________________________________________________________________________\n________________________________________________________________________________________\n________________________________________________________________________________ ________\n________________________________________________________________________________________________________________________________________________________________________________\n________________________________________________________________________ ________________\n________________________________________________________________________________________\n________________________________________________________________________________________________________________________________________________________ ________________________\n________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ________________________________\n________________________________________________________________________________________\n________________________________________________________________________________________\n________________________________________________ ________________________________________\n________________________________________________________________________________________________________________________________________________________________________________________________________________________ ________________________________________________\n________________________________________________________ ________________________________"
+        "C": "2500ft (800m)",
+        "D": "3000ft (1000m)"
       },
       "correct": "B",
-      "rationale": "Do not cutaway below ≈1500 ft AGL."
+      "rationale": "Do not cutaway below 2000 ft AGL (600 m).",
+      "correct_index": 2,
+      "correctLetter": "B",
+      "correctIndex": 1,
+      "correctText": "1500ft (500m)"
     }
   ],
-  "version": "dropin-fixes-20250904214120"
+  "version": "final-20250904222201"
 }
