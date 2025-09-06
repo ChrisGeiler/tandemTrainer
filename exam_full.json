@@ -15,7 +15,7 @@
     },
     {
       "number": 2,
-      "question": "Have you verified that your UPT Tandem Examiner\u2019s rating is current for the duration of the course ?",
+      "question": "Have you verified that your UPT Tandem Examiner’s rating is current for the duration of the course ?",
       "choices": {
         "A": "Yes",
         "B": "No"
@@ -87,15 +87,10 @@
     },
     {
       "number": 8,
-      "question": "After you throw a properly packed and cocked drogue, about how long should it take to fully inflate?",
-      "choices": {
-        "A": "2\u20134 seconds",
-        "B": "6\u20138 seconds",
-        "C": "10\u201312 seconds",
-        "D": "12\u201314 seconds"
-      },
+      "question": "",
+      "choices": {},
       "correct": "B",
-      "rationale": "Expect full drogue inflation in about 6\u20138 seconds when the throw is clean and the kill line is cocked.",
+      "rationale": "",
       "correct_index": 2
     },
     {
@@ -178,16 +173,11 @@
     },
     {
       "number": 15,
-      "question": "Which adjustment most directly helps prevent rocking or sliding in the harness on exit?",
-      "choices": {
-        "A": "Tight student side laterals",
-        "B": "Loosened chest strap",
-        "C": "Loose leg straps",
-        "D": "Shortened drogue bridle"
-      },
+      "question": "",
+      "choices": {},
       "correct": "D",
-      "rationale": "Snug side laterals help keep the student seated and aligned, reducing unwanted movement on exit.",
-      "correct_index": 1
+      "rationale": "",
+      "correct_index": 4
     },
     {
       "number": 16,
@@ -196,7 +186,7 @@
         "A": "1.5 seconds",
         "C": "0.5 a second",
         "B": "1 second",
-        "D": "\u00be of a second"
+        "D": "¾ of a second"
       },
       "correct": "D",
       "rationale": "",
@@ -258,35 +248,30 @@
       "number": 21,
       "question": "What would happen if you held onto the drogue during drogue deployment?",
       "choices": {
-        "A": "Normal drogue deployment",
-        "B": "Open Container with Drogue Issues EP",
-        "C": "Possible entanglement with drogue bridle",
-        "D": "Premature Deployment"
+        "A": "To ensure the drogue is cocked",
+        "B": "Guarantees an in-sequence deployment",
+        "C": "Ensures the main container opens before the drogue collapses",
+        "D": "Helps prevent the main container from opening prematurely"
       },
       "correct": "C",
-      "rationale": "Holding the drogue can delay/impair inflation and lead to an out\u2011of\u2011sequence/open container scenario that maps to the 'Open Container with Drogue Issues' EP. Release the drogue cleanly.",
-      "correct_index": 2
+      "rationale": "",
+      "correct_index": 3
     },
     {
       "number": 22,
-      "question": "What action best reduces burble interference and drogue hesitation on deployment?",
-      "choices": {
-        "A": "Pitch the drogue down between the pair",
-        "B": "Turn 90\u00b0 before throwing",
-        "C": "Present a strong arch and throw high into the relative wind",
-        "D": "Wait 10\u201312 seconds before throwing"
-      },
+      "question": "",
+      "choices": {},
       "correct": "D",
-      "rationale": "A strong arch that puts the drogue into clean air helps it inflate quickly and reduces hesitation risk.",
-      "correct_index": 3
+      "rationale": "",
+      "correct_index": 4
     },
     {
       "number": 23,
       "question": "What length should the exposed kill line be above the grommet at the base of the drogue envelope during \ndrogue calibration?",
       "choices": {
-        "A": "2.5\u201d \u2013 5.5\u201d ( 64mm \u2013 140mm) for a 60\u201d \ndrogue",
-        "C": "7.5\u201d (191mm) for a 60\u201d drogue",
-        "B": "1.5\u201d \u2013 5\u201d (39mm \u2013 128mm) for a 54\u201d \ndrogue",
+        "A": "2.5” – 5.5” ( 64mm – 140mm) for a 60” \ndrogue",
+        "C": "7.5” (191mm) for a 60” drogue",
+        "B": "1.5” – 5” (39mm – 128mm) for a 54” \ndrogue",
         "D": "B and C are correct"
       },
       "correct": "D",
@@ -321,7 +306,7 @@
     },
     {
       "number": 26,
-      "question": "If the kill line were NOT attached to the #5 link at the top of the main deployment bag or if it broke during deployment (the drogue would not collapse \u2013 see Q25), what are the likely negative consequences?",
+      "question": "If the kill line were NOT attached to the #5 link at the top of the main deployment bag or if it broke during deployment (the drogue would not collapse – see Q25), what are the likely negative consequences?",
       "choices": {
         "A": "Potential for hard opening",
         "C": "Streamer malfunction",
@@ -336,7 +321,7 @@
       "number": 27,
       "question": "Explain the negative consequences of loose student side attachment straps on exit?",
       "choices": {
-        "A": "Rocking drogue fall, student\u2019s legs outside \ninstructors",
+        "A": "Rocking drogue fall, student’s legs outside \ninstructors",
         "C": "Harder to get stable, buffeting",
         "B": "Uncontrollable turns, unstable drogue fall",
         "D": "All of the above"
@@ -360,22 +345,17 @@
     },
     {
       "number": 29,
-      "question": "If the kill line is not cocked before exit, the drogue is most likely to\u2026",
-      "choices": {
-        "A": "Inflate faster than normal",
-        "B": "Produce insufficient drag and fail to extract the pin on time",
-        "C": "Tangle with the bridle by design",
-        "D": "Open the main canopy immediately"
-      },
+      "question": "",
+      "choices": {},
       "correct": "A",
-      "rationale": "An uncocked kill line can leave the drogue partially collapsed, reducing drag and delaying pin extraction.",
-      "correct_index": 2
+      "rationale": "",
+      "correct_index": 1
     },
     {
       "number": 30,
       "question": "Which direction should the closing pin be inserted?",
       "choices": {
-        "A": "In the 11 o\u2019clock position",
+        "A": "In the 11 o’clock position",
         "C": "From the bottom of the container",
         "B": "In the direction of the arrow on the disk",
         "D": "A and C are correct"
@@ -425,7 +405,7 @@
     },
     {
       "number": 34,
-      "question": "The red lanyard attached to the Sigma RSL is connected to the\u2026",
+      "question": "The red lanyard attached to the Sigma RSL is connected to the…",
       "choices": {
         "A": "Collins Lanyard",
         "C": "Skyhook",
@@ -464,15 +444,10 @@
     },
     {
       "number": 37,
-      "question": "Which of the following is the safest practice regarding reaching in front of the student during freefall?",
-      "choices": {
-        "A": "Reach across to move the student\u2019s arms at any time",
-        "B": "Avoid reaching in front; use verbal/hand signals and body position first",
-        "C": "Grab the student\u2019s wrists to force the correct position",
-        "D": "Reach forward only when deploying the drogue"
-      },
+      "question": "",
+      "choices": {},
       "correct": "B",
-      "rationale": "Reaching in front can cause entanglement or instability; prioritize signals and body position control.",
+      "rationale": "",
       "correct_index": 2
     },
     {
@@ -579,16 +554,11 @@
     },
     {
       "number": 46,
-      "question": "Who is ultimately responsible for verifying the student fits properly in the tandem harness?",
-      "choices": {
-        "A": "The packer",
-        "B": "The videographer",
-        "C": "The tandem instructor",
-        "D": "The manifest staff"
-      },
+      "question": "",
+      "choices": {},
       "correct": "B",
-      "rationale": "The tandem instructor must ensure proper fit and adjustment before boarding and exit.",
-      "correct_index": 3
+      "rationale": "",
+      "correct_index": 2
     },
     {
       "number": 47,
@@ -609,7 +579,7 @@
       "choices": {
         "A": "Briefing on how to exit and freefall",
         "C": "Briefing on how to land",
-        "B": "Briefing items under FA R Part 105.45 OR \nin accordance with governing body\u2019s \ntandem briefing requirements",
+        "B": "Briefing items under FA R Part 105.45 OR \nin accordance with governing body’s \ntandem briefing requirements",
         "D": "Briefing on aircraft procedures"
       },
       "correct": "B",
@@ -657,33 +627,28 @@
     },
     {
       "number": 52,
-      "question": "How many tandem jumps in the last 12 months must a rated instructor make to renew a tandem rating?",
+      "question": "How many tandem jumps in the last 12 months must a rated instructor make to renew a tandem rating ?",
       "choices": {
-        "A": "20 jumps",
-        "B": "25 jumps",
-        "C": "15 jumps",
-        "D": "30 jumps"
+        "A": "Review SOPs and 2 jumps with an \nevaluator",
+        "C": "Review SOPs and 2 jumps under the \nsupervision of an examiner",
+        "B": "Review SOPs and 1 jump with an \nexperienced jumper",
+        "D": "Review SOPs and 2 jumps with an \nexperienced jumper"
       },
       "correct": "B",
-      "rationale": "UPT renewal requirement: minimum of 25 tandem jumps in the preceding 12 months (plus current EP review every 90 days).",
+      "rationale": "",
       "correct_index": 2
     },
     {
       "number": 53,
-      "question": "If a rated instructor has not made a tandem jump in the preceding 90 days, what is required before taking a student?",
-      "choices": {
-        "A": "Nothing; proceed normally",
-        "B": "Review SOPs and make one tandem with an experienced jumper acting as a student",
-        "C": "One solo tandem only",
-        "D": "Immediate recertification with an examiner"
-      },
+      "question": "",
+      "choices": {},
       "correct": "B",
-      "rationale": "Per common currency guidance, one tandem with an experienced jumper acting as a student is required after 90 days idle (briefing on emergencies first). Adjust to your SOPs.",
+      "rationale": "",
       "correct_index": 2
     },
     {
       "number": 54,
-      "question": "If a Tandem Instructor (after probation) has not made a tandem jump between 181 days \u2013 2 years, they \nmust:",
+      "question": "If a Tandem Instructor (after probation) has not made a tandem jump between 181 days – 2 years, they \nmust:",
       "choices": {
         "A": "Review SOPs, EPs and 2 jumps with an \nevaluator",
         "C": "Review SOPs, EPs, 1 solo jump and 1 \ntandem jump with an experience jumper \nunder the supervision of an examiner",
@@ -748,27 +713,22 @@
       "number": 59,
       "question": "What is the maximum degree of turn for tandem canopies at or below 500ft (150m) AGL?",
       "choices": {
-        "A": "45\u00b0",
-        "B": "90\u00b0",
-        "C": "180\u00b0",
-        "D": "360\u00b0"
+        "A": "45°",
+        "B": "90°",
+        "C": "180°",
+        "D": "360°"
       },
       "correct": "A",
-      "rationale": "At or below 500 ft AGL, limit turns to shallow (\u224845\u00b0) for safety.",
+      "rationale": "At or below 500 ft AGL, limit turns to shallow (≈45°) for safety.",
       "correct_index": 1
     },
     {
       "number": 60,
-      "question": "Within how many seconds after a stable exit should the drogue typically be deployed?",
-      "choices": {
-        "A": "Immediately on exit",
-        "B": "Within ~3 seconds",
-        "C": "Within ~10 seconds",
-        "D": "After 15 seconds to build speed"
-      },
+      "question": "",
+      "choices": {},
       "correct": "A",
-      "rationale": "Standard guidance is to deploy the drogue within roughly three seconds after achieving stability.",
-      "correct_index": 2
+      "rationale": "",
+      "correct_index": 1
     },
     {
       "number": 61,
@@ -819,7 +779,7 @@
         "D": "None of the above"
       },
       "correct": "A",
-      "rationale": "1500\u20134000 ft: attach student, exit, immediately deploy reserve.",
+      "rationale": "1500–4000 ft: attach student, exit, immediately deploy reserve.",
       "correct_index": 1
     },
     {
@@ -845,17 +805,17 @@
         "D": "Cutaway, ensure separation, deploy reserve"
       },
       "correct": "D",
-      "rationale": "Partial malfunction: cutaway \u2192 ensure riser separation \u2192 deploy reserve.",
+      "rationale": "Partial malfunction: cutaway → ensure riser separation → deploy reserve.",
       "correct_index": 4
     },
     {
       "number": 67,
       "question": "What is the correct procedure for a premature deployment of your main (horseshoe) in which you cannot \ndeploy the drogue?",
       "choices": {
-        "A": "Total Malfunction EP \u2014 Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
-        "C": "Open Container with Drogue Issues EP \u2014 Container open w/ horseshoe or drogue problems: DISCONNECT RSL \u2192 CUTAWAY \u2192 CLEAR RISERS \u2192 PULL RESERVE.",
-        "B": "Partial Malfunction EP \u2014 Main out but not landable: CUTAWAY \u2192 ensure separation / clear risers \u2192 DEPLOY RESERVE.",
-        "D": "Third Party Entanglement EP \u2014 Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR \u2264 ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
+        "A": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
+        "C": "Open Container with Drogue Issues EP — Container open w/ horseshoe or drogue problems: DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "B": "Partial Malfunction EP — Main out but not landable: CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "D": "Third Party Entanglement EP — Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR ≤ ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
       },
       "correct": "C",
       "rationale": "Container open and drogue issues are handled under the Open-Container-with-Drogue-Issues EP.",
@@ -863,15 +823,15 @@
     },
     {
       "number": 68,
-      "question": "Which is the correct response to an inflated drogue (\u201cin tow\u201d) that does not release the main pin during a \nmain canopy deployment attempt?",
+      "question": "Which is the correct response to an inflated drogue (“in tow”) that does not release the main pin during a \nmain canopy deployment attempt?",
       "choices": {
-        "A": "Total Malfunction EP \u2014 Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
-        "C": "Open Container with Drogue Issues EP \u2014 Container open w/ horseshoe or drogue problems: DISCONNECT RSL \u2192 CUTAWAY \u2192 CLEAR RISERS \u2192 PULL RESERVE.",
-        "B": "Partial Malfunction EP \u2014 Main out but not landable: CUTAWAY \u2192 ensure separation / clear risers \u2192 DEPLOY RESERVE.",
-        "D": "Third Party Entanglement EP \u2014 Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR \u2264 ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
+        "A": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
+        "C": "Open Container with Drogue Issues EP — Container open w/ horseshoe or drogue problems: DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "B": "Partial Malfunction EP — Main out but not landable: CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "D": "Third Party Entanglement EP — Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR ≤ ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
       },
       "correct": "A",
-      "rationale": "Inflated drogue that doesn\u2019t pull the pin leaves the container closed \u2192 treat as Total Malfunction.",
+      "rationale": "Inflated drogue that doesn’t pull the pin leaves the container closed → treat as Total Malfunction.",
       "correct_index": 1
     },
     {
@@ -884,20 +844,20 @@
         "D": "Dip a shoulder to get clean air into your \nburble"
       },
       "correct": "A",
-      "rationale": "If drogue does not inflate, wait ~6\u20138 s, then pull a drogue release.",
+      "rationale": "If drogue does not inflate, wait ~6–8 s, then pull a drogue release.",
       "correct_index": 1
     },
     {
       "number": 70,
       "question": "What is the correct response to a collapsed drogue in tow ?",
       "choices": {
-        "A": "Total Malfunction EP \u2014 Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
-        "C": "Open Container with Drogue Issues EP \u2014 Container open w/ horseshoe or drogue problems: DISCONNECT RSL \u2192 CUTAWAY \u2192 CLEAR RISERS \u2192 PULL RESERVE.",
-        "B": "Partial Malfunction EP \u2014 Main out but not landable: CUTAWAY \u2192 ensure separation / clear risers \u2192 DEPLOY RESERVE.",
-        "D": "Third Party Entanglement EP \u2014 Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR \u2264 ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
+        "A": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
+        "C": "Open Container with Drogue Issues EP — Container open w/ horseshoe or drogue problems: DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "B": "Partial Malfunction EP — Main out but not landable: CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "D": "Third Party Entanglement EP — Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR ≤ ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
       },
       "correct": "C",
-      "rationale": "Collapsed drogue in tow (container open) \u2192 open-container-with-drogue-issues branch.",
+      "rationale": "Collapsed drogue in tow (container open) → open-container-with-drogue-issues branch.",
       "correct_index": 3
     },
     {
@@ -905,7 +865,7 @@
       "question": "What should you do if you accidentally pull the drogue release handle before you deploy the drogue?",
       "choices": {
         "A": "Expect the trap door effect",
-        "C": "Total Malfunction EP \u2014 Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
+        "C": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
         "B": "Set the drogue",
         "D": "Expect main canopy deployment"
       },
@@ -915,41 +875,41 @@
     },
     {
       "number": 72,
-      "question": "What should you do if you can\u2019t extract the drogue from its pouch after your second attempt within 10 \nseconds after exit?",
+      "question": "What should you do if you can’t extract the drogue from its pouch after your second attempt within 10 \nseconds after exit?",
       "choices": {
-        "A": "Total Malfunction EP \u2014 Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
-        "C": "Open Container with Drogue Issues EP \u2014 Container open w/ horseshoe or drogue problems: DISCONNECT RSL \u2192 CUTAWAY \u2192 CLEAR RISERS \u2192 PULL RESERVE.",
-        "B": "Partial Malfunction EP \u2014 Main out but not landable: CUTAWAY \u2192 ensure separation / clear risers \u2192 DEPLOY RESERVE.",
-        "D": "Third Party Entanglement EP \u2014 Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR \u2264 ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
+        "A": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
+        "C": "Open Container with Drogue Issues EP — Container open w/ horseshoe or drogue problems: DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "B": "Partial Malfunction EP — Main out but not landable: CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "D": "Third Party Entanglement EP — Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR ≤ ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
       },
       "correct": "A",
-      "rationale": "If you can\u2019t extract the drogue after two attempts and ~10 s, go to Total Malfunction (reserve).",
+      "rationale": "If you can’t extract the drogue after two attempts and ~10 s, go to Total Malfunction (reserve).",
       "correct_index": 1
     },
     {
       "number": 73,
-      "question": "What should you do if the bridle wraps around you or your passenger and you can\u2019t clear it ?",
+      "question": "What should you do if the bridle wraps around you or your passenger and you can’t clear it ?",
       "choices": {
-        "A": "Total Malfunction EP \u2014 Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
-        "C": "Open Container with Drogue Issues EP \u2014 Container open w/ horseshoe or drogue problems: DISCONNECT RSL \u2192 CUTAWAY \u2192 CLEAR RISERS \u2192 PULL RESERVE.",
-        "B": "Partial Malfunction EP \u2014 Main out but not landable: CUTAWAY \u2192 ensure separation / clear risers \u2192 DEPLOY RESERVE.",
-        "D": "Third Party Entanglement EP \u2014 Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR \u2264 ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
+        "A": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
+        "C": "Open Container with Drogue Issues EP — Container open w/ horseshoe or drogue problems: DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "B": "Partial Malfunction EP — Main out but not landable: CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "D": "Third Party Entanglement EP — Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR ≤ ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
       },
       "correct": "D",
-      "rationale": "Bridle wraps on you/student and cannot be cleared \u2192 treat as third-party entanglement.",
+      "rationale": "Bridle wraps on you/student and cannot be cleared → treat as third-party entanglement.",
       "correct_index": 4
     },
     {
       "number": 74,
-      "question": "What is the correct response if the drogue does not release after pulling left drogue release, right drogue release, and both together? Conduct\u2026",
+      "question": "What is the correct response if the drogue does not release after pulling left drogue release, right drogue release, and both together? Conduct…",
       "choices": {
-        "A": "Total Malfunction EP \u2014 Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
-        "B": "Partial Malfunction EP \u2014 Main out but not landable: CUTAWAY \u2192 ensure separation / clear risers \u2192 DEPLOY RESERVE.",
-        "C": "Open Container with Drogue Issues EP \u2014 Container open w/ horseshoe or drogue problems: DISCONNECT RSL \u2192 CUTAWAY \u2192 CLEAR RISERS \u2192 PULL RESERVE.",
-        "D": "Third Party Entanglement EP \u2014 Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR \u2264 ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
+        "A": "Total Malfunction EP — Container closed / no main out or drogue cannot be deployed after ~2 attempts or ~10 s: DEPLOY RESERVE immediately.",
+        "B": "Partial Malfunction EP — Main out but not landable: CUTAWAY → ensure separation / clear risers → DEPLOY RESERVE.",
+        "C": "Open Container with Drogue Issues EP — Container open w/ horseshoe or drogue problems: DISCONNECT RSL → CUTAWAY → CLEAR RISERS → PULL RESERVE.",
+        "D": "Third Party Entanglement EP — Entanglement with another jumper/bridle that cannot be cleared quickly: TRY TO CLEAR ≤ ~10 s; if still entangled, DEPLOY RESERVE (no cutaway first)."
       },
       "correct": "A",
-      "rationale": "No release from either drogue handle \u2192 main tray won\u2019t open \u2192 Total Malfunction.",
+      "rationale": "No release from either drogue handle → main tray won’t open → Total Malfunction.",
       "correct_index": 1
     },
     {
@@ -995,7 +955,7 @@
       "number": 78,
       "question": "What is the procedure for a drogue entanglement with a solo skydiver (videographer)?",
       "choices": {
-        "A": "Release RSL \u2192 Cutaway \u2192 Pull RIGHT drogue release (left if needed) \u2192 Ensure full main & riser release \u2192 Track 4\u20135 s for horizontal separation \u2192 Pull RESERVE",
+        "A": "Release RSL → Cutaway → Pull RIGHT drogue release (left if needed) → Ensure full main & riser release → Track 4–5 s for horizontal separation → Pull RESERVE",
         "B": "Attempt to clear for up to ~10 s; if still entangled, deploy the RESERVE first (no cutaway)",
         "C": "Cutaway only, do not deploy the reserve",
         "D": "Deploy the reserve immediately while staying attached to main"
@@ -1032,7 +992,7 @@
     },
     {
       "number": 81,
-      "question": "What can be done, after opening the main canopy, to make the student\u2019s harness more comfortable?",
+      "question": "What can be done, after opening the main canopy, to make the student’s harness more comfortable?",
       "choices": {
         "A": "Loosen the chest strap",
         "B": "Reposition the leg straps",
@@ -1066,12 +1026,12 @@
         "D": "3500ft (1100m)"
       },
       "correct": "D",
-      "rationale": "Decision altitude \u2248 3500 ft (per SOP; configurable).",
+      "rationale": "Decision altitude ≈ 3500 ft (per SOP; configurable).",
       "correct_index": 4
     },
     {
       "number": 84,
-      "question": "What is your \u2018do not cutaway below\u2019 altitude?",
+      "question": "What is your ‘do not cutaway below’ altitude?",
       "choices": {
         "A": "2000ft (600m)",
         "C": "2500ft (800m)",
