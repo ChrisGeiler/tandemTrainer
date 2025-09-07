@@ -87,13 +87,8 @@
     },
     {
       "number": 8,
-      "question": "How many seconds does it take to fall 1,000 feet at terminal velocity without a drogue?",
-      "choices": {
-        "A": "2 Seconds",
-        "B": "4 Seconds",
-        "C": "6 Seconds",
-        "D": "8 Seconds"
-      },
+      "question": "",
+      "choices": {},
       "correct": "B",
       "rationale": "",
       "correct_index": 2
@@ -165,12 +160,12 @@
     },
     {
       "number": 14,
-      "question": "What is the maximum combined suspended weight for the Sigma system ? For the Micro Sigma Tandem \nsystem? (Specify both reserves)",
+      "question": "What is the maximum combined suspended weight for the Sigma system? For the Micro Sigma Tandem system? (Specify both reserves)",
       "choices": {
-        "A": "Maximum system weight minus tandem \ninstructor weight minus sigma system \nweight",
-        "C": "Sigma system weight minus student \nharness weight minus tandem instructor \nweight",
-        "B": "Maximum system weight minus exit weight",
-        "D": "Maximum system weight minus sigma \nsystem & student harness weight minus \ntandem instructor weight"
+        "A": "500 lbs. (226.5 kg) SR 340 / 550 lbs. (249.5 kg) SR 370",
+        "B": "450 lbs. (204.1 kg) VR 360 / 500 lbs. (226.5 kg) SR 340",
+        "C": "500 lbs. (226.5 kg) VR 360 / 550 lbs. (249.5 kg) SR 370",
+        "D": "550 lbs. (249.5 kg) VR 360 / 500 lbs. (226.5 kg) SR 340"
       },
       "correct": "D",
       "rationale": "",
@@ -178,13 +173,8 @@
     },
     {
       "number": 15,
-      "question": "How do you calculate your maximum tandem student weight?",
-      "choices": {
-        "A": "Maximum system weight minus tandem instructor weight minus sigma system weight",
-        "B": "Maximum system weight minus exit weight",
-        "C": "Sigma system weight minus student harness weight minus tandem instructor weight",
-        "D": "Maximum system weight minus sigma system & student harness weight minus tandem instructor weight"
-      },
+      "question": "",
+      "choices": {},
       "correct": "D",
       "rationale": "",
       "correct_index": 4
@@ -258,10 +248,10 @@
       "number": 21,
       "question": "What would happen if you held onto the drogue during drogue deployment?",
       "choices": {
-        "A": "To ensure the drogue is cocked",
-        "B": "Guarantees an in-sequence deployment",
-        "C": "Ensures the main container opens before the drogue collapses",
-        "D": "Helps prevent the main container from opening prematurely"
+        "A": "Normal drogue deployment",
+        "B": "Open Container with Drogue Issues EP",
+        "C": "Possible entanglement with drogue bridle",
+        "D": "Premature Deployment"
       },
       "correct": "C",
       "rationale": "",
@@ -269,13 +259,8 @@
     },
     {
       "number": 22,
-      "question": "What is the purpose of the \u201csafety pin\u201d on the drogue bridle?",
-      "choices": {
-        "A": "To ensure the drogue is cocked",
-        "B": "Guarantees an in-sequence deployment",
-        "C": "Ensures the main container opens before the drogue collapses",
-        "D": "Helps prevent the main container from opening prematurely"
-      },
+      "question": "",
+      "choices": {},
       "correct": "D",
       "rationale": "",
       "correct_index": 4
@@ -360,13 +345,8 @@
     },
     {
       "number": 29,
-      "question": "What should you feel immediately upon pulling the drogue release handle?",
-      "choices": {
-        "A": "The trap door effect",
-        "B": "The safety pin releasing",
-        "C": "An uninflated drogue",
-        "D": "Separation from the main canopy risers"
-      },
+      "question": "",
+      "choices": {},
       "correct": "A",
       "rationale": "",
       "correct_index": 1
@@ -464,13 +444,8 @@
     },
     {
       "number": 37,
-      "question": "What is the minimum functionally open main parachute altitude for tandem jumps after probation?",
-      "choices": {
-        "A": "4500ft (1400m)",
-        "B": "4000ft (1200m)",
-        "C": "3500ft (1100m)",
-        "D": "3000ft (1000m)"
-      },
+      "question": "",
+      "choices": {},
       "correct": "B",
       "rationale": "",
       "correct_index": 2
@@ -566,12 +541,12 @@
     },
     {
       "number": 45,
-      "question": "The responsibility for pre -flighting a UPT Tandem system belongs to?",
+      "question": "The responsibility for pre-flighting a UPT Tandem system belongs to?",
       "choices": {
-        "A": "Chief Instructor",
-        "C": "DZ Owner",
-        "B": "Tandem Instructor jumping the system",
-        "D": "Safety and Training Advisor"
+        "A": "Tandem instructor jumping the system",
+        "B": "Safety and Training Advisor",
+        "C": "Chief Instructor",
+        "D": "Another tandem instructor"
       },
       "correct": "A",
       "rationale": "",
@@ -579,13 +554,8 @@
     },
     {
       "number": 46,
-      "question": "The responsibility for ensuring that a Sigma tandem system have in-date reserve repacks and are Product Service Bulletin compliant falls on whom?",
-      "choices": {
-        "A": "Chief Instructor",
-        "B": "Tandem Instructor jumping the system",
-        "C": "DZ Owner",
-        "D": "Safety and Training Advisor"
-      },
+      "question": "",
+      "choices": {},
       "correct": "B",
       "rationale": "",
       "correct_index": 2
@@ -657,12 +627,12 @@
     },
     {
       "number": 52,
-      "question": "How many tandem jumps in the last 12 months must a rated instructor make to renew a tandem rating ?",
+      "question": "How many tandem jumps in the last 12 months must a rated instructor make to renew a tandem rating?",
       "choices": {
-        "A": "Review SOPs and 2 jumps with an \nevaluator",
-        "C": "Review SOPs and 2 jumps under the \nsupervision of an examiner",
-        "B": "Review SOPs and 1 jump with an \nexperienced jumper",
-        "D": "Review SOPs and 2 jumps with an \nexperienced jumper"
+        "A": "20 jumps",
+        "B": "25 jumps",
+        "C": "15 jumps",
+        "D": "30 jumps"
       },
       "correct": "B",
       "rationale": "",
@@ -670,13 +640,8 @@
     },
     {
       "number": 53,
-      "question": "If a Tandem Instructor (after probation) has not made a tandem jump between 90-180 days, they must:",
-      "choices": {
-        "A": "Review SOPs and 2 jumps with an evaluator",
-        "B": "Review SOPs and 1 jump with an experienced jumper",
-        "C": "Review SOPs and 2 jumps under the supervision of an examiner",
-        "D": "Review SOPs and 2 jumps with an experienced jumper"
-      },
+      "question": "",
+      "choices": {},
       "correct": "B",
       "rationale": "",
       "correct_index": 2
@@ -748,10 +713,10 @@
       "number": 59,
       "question": "What is the maximum degree of turn for tandem canopies at or below 500ft (150m) AGL?",
       "choices": {
-        "A": "45\u00b0",
-        "B": "90\u00b0",
-        "C": "180\u00b0",
-        "D": "360\u00b0"
+        "A": "90 degrees",
+        "B": "180 degrees",
+        "C": "Whatever is necessary for a safe landing",
+        "D": "Depends on wind conditions"
       },
       "correct": "A",
       "rationale": "At or below 500 ft AGL, limit turns to shallow (\u224845\u00b0) for safety.",
@@ -759,11 +724,8 @@
     },
     {
       "number": 60,
-      "question": "Are Handles Checks REQUIRED on EVERY TANDEM SKYDIVE regardless of whether the tandem instructor is using a handcam device on the tandem jump?",
-      "choices": {
-        "A": "Yes",
-        "B": "No"
-      },
+      "question": "",
+      "choices": {},
       "correct": "A",
       "rationale": "",
       "correct_index": 1
@@ -1004,16 +966,16 @@
     },
     {
       "number": 79,
-      "question": "In an entanglement scenario where both jumpers have no good canopy and are below 3000ft (900m) , what \nshould the entangled parachutists do ?",
+      "question": "In an entanglement scenario where both jumpers have no good canopy and are below 3000ft (900m), what should the entangled parachutists do?",
       "choices": {
         "A": "Both jumpers deploy their reserves",
-        "C": "The higher jumper initiates cutaway first, \nfollowed by the lower jumper",
-        "B": "The lower jumper initiates cutaway to \nincrease separation",
-        "D": "Both jumpers disconnect RSLs and \nattempt to climb above the other"
+        "B": "The lower jumper initiates cutaway to increase separation",
+        "C": "The higher jumper initiates cutaway first, followed by the lower jumper",
+        "D": "Both jumpers disconnect RSLs and attempt to climb above the other"
       },
-      "correct": "B",
+      "correct": "A",
       "rationale": "Below 3000 ft with no good canopies: lower jumper cuts away first to increase separation.",
-      "correct_index": 2
+      "correct_index": 1
     },
     {
       "number": 80,
