@@ -167,10 +167,10 @@
       "number": 14,
       "question": "What is the maximum combined suspended weight for the Sigma system ? For the Micro Sigma Tandem \nsystem? (Specify both reserves)",
       "choices": {
-        "A": "Maximum system weight minus tandem \ninstructor weight minus sigma system \nweight",
-        "C": "Sigma system weight minus student \nharness weight minus tandem instructor \nweight",
-        "B": "Maximum system weight minus exit weight",
-        "D": "Maximum system weight minus sigma \nsystem & student harness weight minus \ntandem instructor weight"
+        "A": "500lbs.(226.5kg)SR340/550lbs. (249.5 kg) SR 370",
+        "C": "500lbs.(226.5kg)VR360/550lbs. (249.5 kg) SR 370",
+        "B": "450lbs.(204.1kg)VR360/500lbs. (226.5 kg) SR 340",
+        "D": "550lbs.(249.5kg)VR360/500lbs. 226.5 kg) SR 340"
       },
       "correct": "D",
       "rationale": "",
@@ -258,10 +258,10 @@
       "number": 21,
       "question": "What would happen if you held onto the drogue during drogue deployment?",
       "choices": {
-        "A": "To ensure the drogue is cocked",
-        "B": "Guarantees an in-sequence deployment",
-        "C": "Ensures the main container opens before the drogue collapses",
-        "D": "Helps prevent the main container from opening prematurely"
+        "A": "Normal drogue deployment",
+        "B": "Open Container with Drogue Issues EP",
+        "C": "Possible entanglement with drogue bridle",
+        "D": "Premature Deployment"
       },
       "correct": "C",
       "rationale": "",
@@ -573,9 +573,9 @@
         "B": "Tandem Instructor jumping the system",
         "D": "Safety and Training Advisor"
       },
-      "correct": "A",
+      "correct": "B",
       "rationale": "",
-      "correct_index": 1
+      "correct_index": 2
     },
     {
       "number": 46,
@@ -659,10 +659,10 @@
       "number": 52,
       "question": "How many tandem jumps in the last 12 months must a rated instructor make to renew a tandem rating ?",
       "choices": {
-        "A": "Review SOPs and 2 jumps with an \nevaluator",
-        "C": "Review SOPs and 2 jumps under the \nsupervision of an examiner",
-        "B": "Review SOPs and 1 jump with an \nexperienced jumper",
-        "D": "Review SOPs and 2 jumps with an \nexperienced jumper"
+        "A": "20 jumps",
+        "C": "15 jumps",
+        "B": "25 jumps",
+        "D": "30 jumps"
       },
       "correct": "B",
       "rationale": "",
@@ -753,8 +753,8 @@
         "C": "180\u00b0",
         "D": "360\u00b0"
       },
-      "correct": "A",
-      "rationale": "At or below 500 ft AGL, limit turns to shallow (\u224845\u00b0) for safety.",
+      "correct": "B",
+      "rationale": "",
       "correct_index": 1
     },
     {
@@ -1011,9 +1011,9 @@
         "C": "The higher jumper initiates cutaway first, followed by the lower jumper",
         "D": "Both jumpers disconnect RSLs and attempt to climb above the other"
       },
-      "correct": "A",
-      "rationale": "",
-      "correct_index": 1
+      "correct": "C",
+      "rationale": "Higher jumper has priority to initiate cutaway procedures • Both jumpers work to free themselves from entangled lines and execute EPs, if altitude permits • Lower jumper must cut away after the higher jumper • If ground impact is imminent and separation is notpossible, both jumpers deploy reserve to slow descent",
+      "correct_index": 3
     },
     {
       "number": 80,
