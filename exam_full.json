@@ -167,14 +167,14 @@
       "number": 14,
       "question": "What is the maximum combined suspended weight for the Sigma system ? For the Micro Sigma Tandem \nsystem? (Specify both reserves)",
       "choices": {
-        "A": "500lbs.(226.5kg)SR340/550lbs. (249.5 kg) SR 370",
-        "C": "500lbs.(226.5kg)VR360/550lbs. (249.5 kg) SR 370",
-        "B": "450lbs.(204.1kg)VR360/500lbs. (226.5 kg) SR 340",
-        "D": "550lbs.(249.5kg)VR360/500lbs. 226.5 kg) SR 340"
+        "A": "500lbs.(226.5kg)SR340, 550lbs.(249.5 kg) SR 370",
+        "C": "500lbs.(226.5kg)VR360, 550lbs.(249.5 kg) SR 340 or SR 370",
+        "B": "450lbs.(204.1kg)VR360, 500lbs.(226.5 kg) SR 340",
+        "D": "550lbs.(249.5kg)VR360, 500lbs.(226.5 kg) SR 340"
       },
-      "correct": "D",
+      "correct": "C",
       "rationale": "",
-      "correct_index": 4
+      "correct_index": 3
     },
     {
       "number": 15,
@@ -250,9 +250,9 @@
         "B": "Will not create enough drag to pull safety \npin",
         "D": "It will not deploy the main"
       },
-      "correct": "B",
+      "correct": "C",
       "rationale": "",
-      "correct_index": 2
+      "correct_index": 3
     },
     {
       "number": 21,
@@ -286,7 +286,7 @@
       "choices": {
         "A": "2.5\u201d \u2013 5.5\u201d ( 64mm \u2013 140mm) for a 60\u201d \ndrogue",
         "C": "7.5\u201d (191mm) for a 60\u201d drogue",
-        "B": "1.5\u201d \u2013 5\u201d (39mm \u2013 128mm) for a 54\u201d \ndrogue",
+        "B": "1.5\u201d (39mm) for a 54\u201d \ndrogue",
         "D": "B and C are correct"
       },
       "correct": "D",
@@ -390,11 +390,11 @@
       "choices": {
         "A": "It could cause a Partial Malfunction",
         "C": "It could cause a Horseshoe Malfunction",
-        "B": "It could cause a Total Malfunction",
+        "B": "It could cause a Hard Pull or Drogue in Tow",
         "D": "It could cause an Open Container with \nDrogue Issues Malfunction"
       },
       "correct": "C",
-      "rationale": "",
+      "rationale": "Main pin should be inserted from the bottom of the container upwards. If it is inserted incorrectly it can cause a hard pull – drogue in tow.",
       "correct_index": 3
     },
     {
@@ -531,13 +531,13 @@
       "number": 42,
       "question": "When should the drogue be deployed during a stable, uneventful tandem exit?",
       "choices": {
-        "A": "Within 3 seconds of leaving the aircraft",
+        "A": "Within 5 seconds of leaving the aircraft",
         "C": "10 seconds",
         "B": "5-8 seconds",
         "D": "Immediately if you feel instability"
       },
       "correct": "A",
-      "rationale": "",
+      "rationale": "Deploy drogue after exit: One must make every effort to deploy the drogue in a stable position within 5 seconds after exit.",
       "correct_index": 1
     },
     {
@@ -1004,7 +1004,7 @@
     },
     {
       "number": 79,
-      "question": "In an entanglement scenario where both jumpers have no good canopy and are below 3000ft (900m), what should the entangled parachutists do?",
+      "question": "In an entanglement scenario where both jumpers have no good canopy and are below 3000ft (900m) but above 1500m, what should the entangled parachutists do?",
       "choices": {
         "A": "Both jumpers deploy their reserves",
         "B": "The lower jumper initiates cutaway to increase separation",
