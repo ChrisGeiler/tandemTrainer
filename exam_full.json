@@ -393,9 +393,9 @@
         "B": "It could cause a Hard Pull or Drogue in Tow",
         "D": "It could cause an Open Container with \nDrogue Issues Malfunction"
       },
-      "correct": "C",
+      "correct": "B",
       "rationale": "Main pin should be inserted from the bottom of the container upwards. If it is inserted incorrectly it can cause a hard pull – drogue in tow.",
-      "correct_index": 3
+      "correct_index": 2
     },
     {
       "number": 32,
@@ -1004,7 +1004,7 @@
     },
     {
       "number": 79,
-      "question": "In an entanglement scenario where both jumpers have no good canopy and are below 3000ft (900m) but above 1500m, what should the entangled parachutists do?",
+      "question": "In an entanglement scenario where both jumpers have no good canopy and are below 3000ft (900m) but above 1500ft (450m), what should the entangled parachutists do?",
       "choices": {
         "A": "Both jumpers deploy their reserves",
         "B": "The lower jumper initiates cutaway to increase separation",
@@ -1072,9 +1072,9 @@
       "question": "What is your \u2018do not cutaway below\u2019 altitude?",
       "choices": {
         "A": "2000ft (600m)",
-        "C": "2500ft (800m)",
-        "B": "1500ft (500m)",
-        "D": "3000ft (1000m)"
+        "C": "2500ft (750m)",
+        "B": "1500ft (450m)",
+        "D": "3000ft (900m)"
       },
       "correct": "B",
       "rationale": "Do not cutaway below 2000 ft AGL (600 m).",
